@@ -3,7 +3,11 @@
 .gradle/
 **/build/
 *.apk
+*.aab
 *.keystore
+
+# Kotlin daemon
+.kotlin/
 
 # Python tooling
 tools/.venv/
@@ -11,10 +15,15 @@ tools/out/
 tools/data_raw/
 __pycache__/
 *.pyc
+*.pyo
 .pytest_cache/
 .ruff_cache/
+
+# Logs
+*.log
 
 # IDE / OS
 .idea/
 *.iml
 .DS_Store
+Thumbs.db
