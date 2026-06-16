@@ -1,0 +1,12 @@
+{
+  "max_depth": 5,
+  "total_guesses": 8277,
+  "mean": 3.575377969762419,
+  "answer_count": 2315,
+  "allowed_count": 14855,
+  "first_word": "salet",
+  "node_count": 2808,
+  "tree_sha256": "ffb6ee5b87cba06570d08341fabec408bc3c6e5918ec52415d2ee42ed8ab4e73",
+  "answers_sha256": "f40e47975cf360ff9febe7d49c8e285054d8fa3fb9644cea575922060951d6ee",
+  "allowed_sha256": "ba86911aea83d038d53c0999fe6cbe310c8f59d2b79626c73bd0cd0773adc320"
+}

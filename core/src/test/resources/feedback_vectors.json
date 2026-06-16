@@ -1,0 +1,24122 @@
+[
+{
+"guess": "level",
+"answer": "lever",
+"pattern": [
+2,
+2,
+2,
+2,
+0
+],
+"code": 240
+},
+{
+"guess": "speed",
+"answer": "erase",
+"pattern": [
+1,
+0,
+1,
+1,
+0
+],
+"code": 93
+},
+{
+"guess": "alloy",
+"answer": "loyal",
+"pattern": [
+1,
+1,
+1,
+1,
+1
+],
+"code": 121
+},
+{
+"guess": "eerie",
+"answer": "there",
+"pattern": [
+1,
+0,
+1,
+0,
+2
+],
+"code": 92
+},
+{
+"guess": "array",
+"answer": "razor",
+"pattern": [
+1,
+1,
+1,
+0,
+0
+],
+"code": 117
+},
+{
+"guess": "sassy",
+"answer": "mossy",
+"pattern": [
+0,
+0,
+2,
+2,
+2
+],
+"code": 26
+},
+{
+"guess": "argue",
+"answer": "argue",
+"pattern": [
+2,
+2,
+2,
+2,
+2
+],
+"code": 242
+},
+{
+"guess": "xylyl",
+"answer": "abate",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "crane",
+"answer": "slate",
+"pattern": [
+0,
+0,
+2,
+0,
+2
+],
+"code": 20
+},
+{
+"guess": "salet",
+"answer": "aback",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "peags",
+"answer": "slain",
+"pattern": [
+0,
+0,
+2,
+0,
+1
+],
+"code": 19
+},
+{
+"guess": "padas",
+"answer": "uncut",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "mudif",
+"answer": "crude",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "prude",
+"answer": "igloo",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "petit",
+"answer": "hatch",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "darcy",
+"answer": "phase",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "chams",
+"answer": "lorry",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "aliya",
+"answer": "smell",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "shoud",
+"answer": "theft",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "weise",
+"answer": "begun",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "goras",
+"answer": "vapor",
+"pattern": [
+0,
+1,
+1,
+1,
+0
+],
+"code": 39
+},
+{
+"guess": "palus",
+"answer": "goner",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "cuzes",
+"answer": "cinch",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "emmas",
+"answer": "fewer",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "areas",
+"answer": "shank",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "combe",
+"answer": "jumbo",
+"pattern": [
+0,
+1,
+2,
+2,
+0
+],
+"code": 51
+},
+{
+"guess": "wispy",
+"answer": "goody",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "raphe",
+"answer": "mossy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "nages",
+"answer": "inner",
+"pattern": [
+1,
+0,
+0,
+2,
+0
+],
+"code": 87
+},
+{
+"guess": "mugga",
+"answer": "crept",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "glatt",
+"answer": "diode",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "goris",
+"answer": "taken",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "maile",
+"answer": "civic",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "veals",
+"answer": "tread",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "quirl",
+"answer": "stark",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "matte",
+"answer": "ghost",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "hoise",
+"answer": "noose",
+"pattern": [
+0,
+2,
+0,
+2,
+2
+],
+"code": 62
+},
+{
+"guess": "salud",
+"answer": "token",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "manet",
+"answer": "spade",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "odahs",
+"answer": "honor",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "snots",
+"answer": "hotly",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "mirth",
+"answer": "ralph",
+"pattern": [
+0,
+0,
+1,
+0,
+2
+],
+"code": 11
+},
+{
+"guess": "tavas",
+"answer": "resin",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "molie",
+"answer": "testy",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "strew",
+"answer": "reach",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "tonka",
+"answer": "berry",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "hooka",
+"answer": "phone",
+"pattern": [
+1,
+0,
+2,
+0,
+0
+],
+"code": 99
+},
+{
+"guess": "urman",
+"answer": "agora",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "menus",
+"answer": "foamy",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "simis",
+"answer": "burst",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "bayou",
+"answer": "pilot",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "amias",
+"answer": "gamma",
+"pattern": [
+1,
+1,
+0,
+1,
+0
+],
+"code": 111
+},
+{
+"guess": "mooed",
+"answer": "rifle",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "snary",
+"answer": "vault",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "dured",
+"answer": "unfed",
+"pattern": [
+0,
+1,
+0,
+2,
+2
+],
+"code": 35
+},
+{
+"guess": "fiats",
+"answer": "havoc",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "avine",
+"answer": "widen",
+"pattern": [
+0,
+0,
+1,
+1,
+1
+],
+"code": 13
+},
+{
+"guess": "duroc",
+"answer": "rehab",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "pager",
+"answer": "fever",
+"pattern": [
+0,
+0,
+0,
+2,
+2
+],
+"code": 8
+},
+{
+"guess": "urges",
+"answer": "faith",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "mirex",
+"answer": "ivory",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "matty",
+"answer": "swept",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "emoji",
+"answer": "inlay",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "puers",
+"answer": "queue",
+"pattern": [
+0,
+2,
+2,
+0,
+0
+],
+"code": 72
+},
+{
+"guess": "dicto",
+"answer": "slunk",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "tzars",
+"answer": "burnt",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "tuner",
+"answer": "glyph",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "plena",
+"answer": "algae",
+"pattern": [
+0,
+2,
+1,
+0,
+1
+],
+"code": 64
+},
+{
+"guess": "deash",
+"answer": "burnt",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "mused",
+"answer": "randy",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "thank",
+"answer": "swirl",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "scape",
+"answer": "slung",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "aiyah",
+"answer": "lousy",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "celom",
+"answer": "knock",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "teend",
+"answer": "mossy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "agley",
+"answer": "repay",
+"pattern": [
+1,
+0,
+0,
+1,
+2
+],
+"code": 86
+},
+{
+"guess": "otium",
+"answer": "baker",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "hazer",
+"answer": "circa",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "prods",
+"answer": "shard",
+"pattern": [
+0,
+1,
+0,
+1,
+1
+],
+"code": 31
+},
+{
+"guess": "bindi",
+"answer": "equip",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "eider",
+"answer": "petty",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "sutta",
+"answer": "drake",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "sprad",
+"answer": "flock",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "leaks",
+"answer": "untie",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "peavy",
+"answer": "rodeo",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "milia",
+"answer": "utter",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "buroo",
+"answer": "flush",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "nains",
+"answer": "apply",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "froze",
+"answer": "deter",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "debus",
+"answer": "above",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "hitch",
+"answer": "hyena",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "prior",
+"answer": "smock",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "dukun",
+"answer": "swash",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "conne",
+"answer": "front",
+"pattern": [
+0,
+1,
+0,
+2,
+0
+],
+"code": 33
+},
+{
+"guess": "gleds",
+"answer": "dumpy",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "sizes",
+"answer": "facet",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "boyau",
+"answer": "opine",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "kibes",
+"answer": "flout",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bourg",
+"answer": "loopy",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "rusty",
+"answer": "olive",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ensky",
+"answer": "stage",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "anise",
+"answer": "enact",
+"pattern": [
+1,
+2,
+0,
+0,
+1
+],
+"code": 136
+},
+{
+"guess": "crock",
+"answer": "salon",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "feral",
+"answer": "title",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "mazar",
+"answer": "decry",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "thief",
+"answer": "grope",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "iddut",
+"answer": "clerk",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "aborn",
+"answer": "bread",
+"pattern": [
+1,
+1,
+0,
+1,
+0
+],
+"code": 111
+},
+{
+"guess": "fatly",
+"answer": "lodge",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "mugil",
+"answer": "space",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "plops",
+"answer": "ditty",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "flays",
+"answer": "skate",
+"pattern": [
+0,
+0,
+2,
+0,
+1
+],
+"code": 19
+},
+{
+"guess": "shets",
+"answer": "shaft",
+"pattern": [
+2,
+2,
+0,
+1,
+0
+],
+"code": 219
+},
+{
+"guess": "raven",
+"answer": "refer",
+"pattern": [
+2,
+0,
+0,
+2,
+0
+],
+"code": 168
+},
+{
+"guess": "inkle",
+"answer": "verge",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "wangs",
+"answer": "slate",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "puces",
+"answer": "druid",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "laigh",
+"answer": "inter",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "sided",
+"answer": "biome",
+"pattern": [
+0,
+2,
+0,
+1,
+0
+],
+"code": 57
+},
+{
+"guess": "milky",
+"answer": "older",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "onlay",
+"answer": "moult",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "undee",
+"answer": "copse",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "dreed",
+"answer": "larva",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "myopy",
+"answer": "paler",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "actus",
+"answer": "ocean",
+"pattern": [
+1,
+2,
+0,
+0,
+0
+],
+"code": 135
+},
+{
+"guess": "slept",
+"answer": "angry",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "apace",
+"answer": "shape",
+"pattern": [
+0,
+1,
+2,
+0,
+2
+],
+"code": 47
+},
+{
+"guess": "fairy",
+"answer": "apply",
+"pattern": [
+0,
+1,
+0,
+0,
+2
+],
+"code": 29
+},
+{
+"guess": "poire",
+"answer": "bulge",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "sleer",
+"answer": "ethos",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "tubar",
+"answer": "first",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "perae",
+"answer": "stole",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "redip",
+"answer": "donut",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "paged",
+"answer": "write",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "dimer",
+"answer": "award",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "pujas",
+"answer": "flunk",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "preux",
+"answer": "pygmy",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "houri",
+"answer": "spent",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "prora",
+"answer": "clung",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "boohs",
+"answer": "slept",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "nobly",
+"answer": "cluck",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "fifer",
+"answer": "enter",
+"pattern": [
+0,
+0,
+0,
+2,
+2
+],
+"code": 8
+},
+{
+"guess": "angas",
+"answer": "shore",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "loure",
+"answer": "lousy",
+"pattern": [
+2,
+2,
+2,
+0,
+0
+],
+"code": 234
+},
+{
+"guess": "clits",
+"answer": "oddly",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "galia",
+"answer": "dress",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "gaums",
+"answer": "melee",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "kabob",
+"answer": "hyper",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "nymph",
+"answer": "shrew",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "magus",
+"answer": "niche",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "yirds",
+"answer": "virus",
+"pattern": [
+0,
+2,
+2,
+0,
+2
+],
+"code": 74
+},
+{
+"guess": "poilu",
+"answer": "dairy",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "turnt",
+"answer": "thong",
+"pattern": [
+2,
+0,
+0,
+2,
+0
+],
+"code": 168
+},
+{
+"guess": "lants",
+"answer": "metal",
+"pattern": [
+1,
+1,
+0,
+1,
+0
+],
+"code": 111
+},
+{
+"guess": "anele",
+"answer": "cacti",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "muons",
+"answer": "sweep",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "nails",
+"answer": "medal",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "evegs",
+"answer": "plant",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "croon",
+"answer": "pence",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "pippy",
+"answer": "pleat",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "miche",
+"answer": "class",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "sused",
+"answer": "trunk",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "bialy",
+"answer": "nomad",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "betty",
+"answer": "theft",
+"pattern": [
+0,
+1,
+1,
+1,
+0
+],
+"code": 39
+},
+{
+"guess": "draff",
+"answer": "enact",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "jaggy",
+"answer": "amble",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "kypes",
+"answer": "creak",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "pyric",
+"answer": "women",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "hutia",
+"answer": "grant",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "rumps",
+"answer": "fault",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "ragus",
+"answer": "shade",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "reign",
+"answer": "tutor",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "impro",
+"answer": "tried",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "plant",
+"answer": "spice",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "mongs",
+"answer": "carve",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "paaho",
+"answer": "truer",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "tweep",
+"answer": "debar",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "sleys",
+"answer": "idyll",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "fraim",
+"answer": "kitty",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "hotty",
+"answer": "musky",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "sensi",
+"answer": "savor",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "beers",
+"answer": "chart",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "fords",
+"answer": "ulcer",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "ghest",
+"answer": "given",
+"pattern": [
+2,
+0,
+1,
+0,
+0
+],
+"code": 171
+},
+{
+"guess": "limed",
+"answer": "avian",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "arise",
+"answer": "tabby",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "lards",
+"answer": "place",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "bivia",
+"answer": "broth",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "dunes",
+"answer": "shell",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "salas",
+"answer": "hazel",
+"pattern": [
+0,
+2,
+1,
+0,
+0
+],
+"code": 63
+},
+{
+"guess": "bemad",
+"answer": "straw",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "pawer",
+"answer": "taffy",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "sadhu",
+"answer": "scrub",
+"pattern": [
+2,
+0,
+0,
+0,
+1
+],
+"code": 163
+},
+{
+"guess": "kumis",
+"answer": "given",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "bases",
+"answer": "morph",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ledge",
+"answer": "eagle",
+"pattern": [
+1,
+1,
+0,
+1,
+2
+],
+"code": 113
+},
+{
+"guess": "glede",
+"answer": "cadet",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "migod",
+"answer": "ombre",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "heapy",
+"answer": "etude",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "gimel",
+"answer": "later",
+"pattern": [
+0,
+0,
+0,
+2,
+1
+],
+"code": 7
+},
+{
+"guess": "assot",
+"answer": "villa",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "shist",
+"answer": "basil",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "pepsi",
+"answer": "jiffy",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "ameba",
+"answer": "cabby",
+"pattern": [
+1,
+0,
+0,
+2,
+0
+],
+"code": 87
+},
+{
+"guess": "kopek",
+"answer": "brass",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "mooli",
+"answer": "sever",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "forze",
+"answer": "beget",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "piais",
+"answer": "digit",
+"pattern": [
+0,
+2,
+0,
+2,
+0
+],
+"code": 60
+},
+{
+"guess": "mumbo",
+"answer": "slime",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "agals",
+"answer": "clink",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "bogey",
+"answer": "ought",
+"pattern": [
+0,
+1,
+2,
+0,
+0
+],
+"code": 45
+},
+{
+"guess": "parid",
+"answer": "tuber",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "crost",
+"answer": "polyp",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "moray",
+"answer": "serum",
+"pattern": [
+1,
+0,
+2,
+0,
+0
+],
+"code": 99
+},
+{
+"guess": "drank",
+"answer": "heist",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "spred",
+"answer": "croup",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "retax",
+"answer": "horse",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "yohah",
+"answer": "leper",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bikie",
+"answer": "bagel",
+"pattern": [
+2,
+0,
+0,
+0,
+1
+],
+"code": 163
+},
+{
+"guess": "gogos",
+"answer": "truck",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bobos",
+"answer": "ebony",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "addas",
+"answer": "story",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "absey",
+"answer": "erase",
+"pattern": [
+1,
+0,
+1,
+1,
+0
+],
+"code": 93
+},
+{
+"guess": "pallu",
+"answer": "goner",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "graff",
+"answer": "waltz",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "tatou",
+"answer": "clang",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "amido",
+"answer": "jolly",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "pesty",
+"answer": "press",
+"pattern": [
+2,
+1,
+1,
+0,
+0
+],
+"code": 198
+},
+{
+"guess": "fulth",
+"answer": "since",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pyoid",
+"answer": "fancy",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "jammy",
+"answer": "wound",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "wunga",
+"answer": "aider",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "loped",
+"answer": "skier",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "ursid",
+"answer": "sonic",
+"pattern": [
+0,
+0,
+1,
+2,
+0
+],
+"code": 15
+},
+{
+"guess": "apeek",
+"answer": "tripe",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "sprod",
+"answer": "china",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "herns",
+"answer": "vaunt",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "clubs",
+"answer": "debug",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "aspro",
+"answer": "robin",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "olpae",
+"answer": "media",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "mizes",
+"answer": "udder",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "opsat",
+"answer": "super",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "foxes",
+"answer": "sheet",
+"pattern": [
+0,
+0,
+0,
+2,
+1
+],
+"code": 7
+},
+{
+"guess": "ralph",
+"answer": "frock",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "mesto",
+"answer": "array",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "endew",
+"answer": "crept",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "batos",
+"answer": "fight",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "hoops",
+"answer": "pivot",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "mooch",
+"answer": "creme",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "dogma",
+"answer": "hunky",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "tacho",
+"answer": "sheer",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "manto",
+"answer": "cello",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "mosed",
+"answer": "penal",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "gares",
+"answer": "abhor",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "boxer",
+"answer": "basin",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "mealy",
+"answer": "grave",
+"pattern": [
+0,
+1,
+2,
+0,
+0
+],
+"code": 45
+},
+{
+"guess": "slank",
+"answer": "duvet",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pocan",
+"answer": "afoul",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "gurdy",
+"answer": "revue",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "moldy",
+"answer": "creak",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "brace",
+"answer": "solar",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "droog",
+"answer": "yacht",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "calle",
+"answer": "tried",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "pavon",
+"answer": "slurp",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "caser",
+"answer": "quill",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "baste",
+"answer": "stark",
+"pattern": [
+0,
+1,
+1,
+1,
+0
+],
+"code": 39
+},
+{
+"guess": "fanum",
+"answer": "pivot",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "anger",
+"answer": "plume",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "hymen",
+"answer": "basil",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sweep",
+"answer": "lever",
+"pattern": [
+0,
+0,
+1,
+2,
+0
+],
+"code": 15
+},
+{
+"guess": "wroke",
+"answer": "salad",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "niffy",
+"answer": "flank",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "flint",
+"answer": "crime",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "sheik",
+"answer": "jolly",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "nipet",
+"answer": "joust",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "fiefs",
+"answer": "chain",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "frita",
+"answer": "salve",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "dangs",
+"answer": "cheer",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "porey",
+"answer": "aptly",
+"pattern": [
+1,
+0,
+0,
+0,
+2
+],
+"code": 83
+},
+{
+"guess": "desks",
+"answer": "coven",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "tween",
+"answer": "thank",
+"pattern": [
+2,
+0,
+0,
+0,
+1
+],
+"code": 163
+},
+{
+"guess": "pakka",
+"answer": "habit",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "regna",
+"answer": "catty",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "cures",
+"answer": "skiff",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "gadge",
+"answer": "rover",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "mooed",
+"answer": "crane",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "quete",
+"answer": "extra",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "twist",
+"answer": "flour",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "torta",
+"answer": "leash",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "mazer",
+"answer": "dumpy",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "flyte",
+"answer": "stern",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "soddy",
+"answer": "droit",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "plong",
+"answer": "slack",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "etage",
+"answer": "diner",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "halts",
+"answer": "lofty",
+"pattern": [
+0,
+0,
+1,
+2,
+0
+],
+"code": 15
+},
+{
+"guess": "zooty",
+"answer": "lemur",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "rejon",
+"answer": "tense",
+"pattern": [
+0,
+2,
+0,
+0,
+1
+],
+"code": 55
+},
+{
+"guess": "whoof",
+"answer": "scree",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "fient",
+"answer": "glove",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "scudi",
+"answer": "swift",
+"pattern": [
+2,
+0,
+0,
+0,
+1
+],
+"code": 163
+},
+{
+"guess": "soyas",
+"answer": "jetty",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "deems",
+"answer": "safer",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "curls",
+"answer": "natal",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "tough",
+"answer": "drake",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "tokay",
+"answer": "stair",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "scoup",
+"answer": "rupee",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "donor",
+"answer": "mower",
+"pattern": [
+0,
+2,
+0,
+0,
+2
+],
+"code": 56
+},
+{
+"guess": "email",
+"answer": "clash",
+"pattern": [
+0,
+0,
+2,
+0,
+1
+],
+"code": 19
+},
+{
+"guess": "notum",
+"answer": "gaffe",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "oboes",
+"answer": "tract",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ploys",
+"answer": "pouch",
+"pattern": [
+2,
+0,
+1,
+0,
+0
+],
+"code": 171
+},
+{
+"guess": "olent",
+"answer": "ditto",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "sedum",
+"answer": "repel",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "lyses",
+"answer": "clasp",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "sugan",
+"answer": "wince",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "sophy",
+"answer": "bleep",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "pavis",
+"answer": "login",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "coses",
+"answer": "totem",
+"pattern": [
+0,
+2,
+0,
+2,
+0
+],
+"code": 60
+},
+{
+"guess": "marle",
+"answer": "plait",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "kudzu",
+"answer": "gaffe",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "under",
+"answer": "rally",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "synch",
+"answer": "dough",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "grade",
+"answer": "felon",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "peter",
+"answer": "minus",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bogus",
+"answer": "cynic",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "voddy",
+"answer": "table",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "yogas",
+"answer": "wring",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "quino",
+"answer": "erupt",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "peery",
+"answer": "trice",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "fango",
+"answer": "tonic",
+"pattern": [
+0,
+0,
+2,
+0,
+1
+],
+"code": 19
+},
+{
+"guess": "fable",
+"answer": "modem",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "skeen",
+"answer": "annex",
+"pattern": [
+0,
+0,
+0,
+2,
+1
+],
+"code": 7
+},
+{
+"guess": "taste",
+"answer": "quack",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "ethos",
+"answer": "groom",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "oldly",
+"answer": "groom",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "saves",
+"answer": "throw",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sherd",
+"answer": "bleak",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "ergon",
+"answer": "madam",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "mardy",
+"answer": "crier",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "mesto",
+"answer": "image",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "alone",
+"answer": "stick",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "flats",
+"answer": "quest",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "ebons",
+"answer": "curry",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bales",
+"answer": "perky",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "lakes",
+"answer": "crony",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bodge",
+"answer": "doubt",
+"pattern": [
+1,
+2,
+1,
+0,
+0
+],
+"code": 144
+},
+{
+"guess": "pirre",
+"answer": "total",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "tided",
+"answer": "steed",
+"pattern": [
+1,
+0,
+0,
+2,
+2
+],
+"code": 89
+},
+{
+"guess": "fulwa",
+"answer": "smoke",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "kopje",
+"answer": "berth",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "porin",
+"answer": "noise",
+"pattern": [
+0,
+2,
+0,
+1,
+1
+],
+"code": 58
+},
+{
+"guess": "diced",
+"answer": "baron",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "luffs",
+"answer": "booth",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sonce",
+"answer": "segue",
+"pattern": [
+2,
+0,
+0,
+0,
+2
+],
+"code": 164
+},
+{
+"guess": "lubed",
+"answer": "choke",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "bluer",
+"answer": "guess",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "quail",
+"answer": "heard",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "outed",
+"answer": "avian",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "dusks",
+"answer": "freed",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "hoiks",
+"answer": "blurt",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "rexes",
+"answer": "rowdy",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "dekko",
+"answer": "bused",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "beaux",
+"answer": "augur",
+"pattern": [
+0,
+0,
+1,
+2,
+0
+],
+"code": 15
+},
+{
+"guess": "embow",
+"answer": "store",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "flexi",
+"answer": "trait",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "ebank",
+"answer": "amuse",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "rummy",
+"answer": "cloud",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "duded",
+"answer": "poppy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "wythe",
+"answer": "loopy",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "saola",
+"answer": "badge",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "misal",
+"answer": "scoff",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "silks",
+"answer": "solar",
+"pattern": [
+2,
+0,
+2,
+0,
+0
+],
+"code": 180
+},
+{
+"guess": "emyds",
+"answer": "unify",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "beers",
+"answer": "range",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "sough",
+"answer": "chaos",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "volva",
+"answer": "chalk",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "punks",
+"answer": "betel",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "cabre",
+"answer": "flume",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "inapt",
+"answer": "dowry",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "natak",
+"answer": "motor",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "peaze",
+"answer": "nanny",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "sabha",
+"answer": "fetus",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "demit",
+"answer": "homer",
+"pattern": [
+0,
+1,
+2,
+0,
+0
+],
+"code": 45
+},
+{
+"guess": "myons",
+"answer": "bloom",
+"pattern": [
+1,
+0,
+2,
+0,
+0
+],
+"code": 99
+},
+{
+"guess": "drain",
+"answer": "ficus",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "anger",
+"answer": "grimy",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "serin",
+"answer": "quake",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "mocap",
+"answer": "minim",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "snack",
+"answer": "wafer",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "roist",
+"answer": "shirt",
+"pattern": [
+1,
+0,
+2,
+1,
+2
+],
+"code": 104
+},
+{
+"guess": "stops",
+"answer": "carol",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "topic",
+"answer": "sloop",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "sices",
+"answer": "model",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "pomme",
+"answer": "shove",
+"pattern": [
+0,
+1,
+0,
+0,
+2
+],
+"code": 29
+},
+{
+"guess": "sails",
+"answer": "title",
+"pattern": [
+0,
+0,
+1,
+2,
+0
+],
+"code": 15
+},
+{
+"guess": "psoae",
+"answer": "guise",
+"pattern": [
+0,
+1,
+0,
+0,
+2
+],
+"code": 29
+},
+{
+"guess": "monte",
+"answer": "siren",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "padou",
+"answer": "cross",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "kythe",
+"answer": "doubt",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "girly",
+"answer": "taker",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "noted",
+"answer": "drier",
+"pattern": [
+0,
+0,
+0,
+2,
+1
+],
+"code": 7
+},
+{
+"guess": "daker",
+"answer": "carat",
+"pattern": [
+0,
+2,
+0,
+0,
+1
+],
+"code": 55
+},
+{
+"guess": "gawcy",
+"answer": "maker",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "relet",
+"answer": "flume",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "lower",
+"answer": "lasso",
+"pattern": [
+2,
+1,
+0,
+0,
+0
+],
+"code": 189
+},
+{
+"guess": "upbye",
+"answer": "angst",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "witan",
+"answer": "jetty",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "glean",
+"answer": "grout",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "kissy",
+"answer": "flora",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "slink",
+"answer": "tenet",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "gutsy",
+"answer": "waver",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "styli",
+"answer": "dimly",
+"pattern": [
+0,
+0,
+1,
+2,
+1
+],
+"code": 16
+},
+{
+"guess": "thack",
+"answer": "shown",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "pubic",
+"answer": "board",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "idols",
+"answer": "gnome",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "lilos",
+"answer": "kiosk",
+"pattern": [
+0,
+2,
+0,
+1,
+1
+],
+"code": 58
+},
+{
+"guess": "negus",
+"answer": "meter",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "style",
+"answer": "joist",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "husos",
+"answer": "valet",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "yarco",
+"answer": "dilly",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "moral",
+"answer": "white",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "lotsa",
+"answer": "macaw",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "aheap",
+"answer": "jumbo",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "obese",
+"answer": "leach",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "namaz",
+"answer": "inner",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "ditts",
+"answer": "brick",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "fleme",
+"answer": "intro",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "walla",
+"answer": "awful",
+"pattern": [
+1,
+1,
+1,
+0,
+0
+],
+"code": 117
+},
+{
+"guess": "mailo",
+"answer": "jiffy",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "cores",
+"answer": "hymen",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "pauls",
+"answer": "cedar",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "leuch",
+"answer": "maize",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "drips",
+"answer": "tweed",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "unpin",
+"answer": "unfed",
+"pattern": [
+2,
+2,
+0,
+0,
+0
+],
+"code": 216
+},
+{
+"guess": "icons",
+"answer": "edict",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "swizz",
+"answer": "geese",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "melas",
+"answer": "shalt",
+"pattern": [
+0,
+0,
+1,
+1,
+1
+],
+"code": 13
+},
+{
+"guess": "puzel",
+"answer": "pleat",
+"pattern": [
+2,
+0,
+0,
+1,
+1
+],
+"code": 166
+},
+{
+"guess": "cooks",
+"answer": "khaki",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "retag",
+"answer": "shalt",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "tacit",
+"answer": "slyly",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bialy",
+"answer": "hater",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "armed",
+"answer": "slash",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "curch",
+"answer": "hairy",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "enurn",
+"answer": "alibi",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "byked",
+"answer": "lupus",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pepla",
+"answer": "bigot",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "piner",
+"answer": "inept",
+"pattern": [
+1,
+1,
+1,
+1,
+0
+],
+"code": 120
+},
+{
+"guess": "azide",
+"answer": "group",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "haugo",
+"answer": "razor",
+"pattern": [
+0,
+2,
+0,
+0,
+1
+],
+"code": 55
+},
+{
+"guess": "preen",
+"answer": "smell",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "wroot",
+"answer": "lunge",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "maire",
+"answer": "trend",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "dente",
+"answer": "fever",
+"pattern": [
+0,
+2,
+0,
+0,
+1
+],
+"code": 55
+},
+{
+"guess": "argal",
+"answer": "gummy",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "putty",
+"answer": "pansy",
+"pattern": [
+2,
+0,
+0,
+0,
+2
+],
+"code": 164
+},
+{
+"guess": "llano",
+"answer": "puree",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "obits",
+"answer": "crest",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "lamps",
+"answer": "lathe",
+"pattern": [
+2,
+2,
+0,
+0,
+0
+],
+"code": 216
+},
+{
+"guess": "gants",
+"answer": "yearn",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "dices",
+"answer": "cried",
+"pattern": [
+1,
+1,
+1,
+2,
+0
+],
+"code": 123
+},
+{
+"guess": "mercy",
+"answer": "shunt",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "unagi",
+"answer": "knave",
+"pattern": [
+0,
+2,
+2,
+0,
+0
+],
+"code": 72
+},
+{
+"guess": "exult",
+"answer": "chord",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "horal",
+"answer": "throw",
+"pattern": [
+1,
+1,
+2,
+0,
+0
+],
+"code": 126
+},
+{
+"guess": "neato",
+"answer": "prank",
+"pattern": [
+1,
+0,
+2,
+0,
+0
+],
+"code": 99
+},
+{
+"guess": "floes",
+"answer": "cabby",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ranas",
+"answer": "alpha",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "lochs",
+"answer": "repay",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "kalam",
+"answer": "donor",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "saine",
+"answer": "gleam",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "aided",
+"answer": "cloud",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "fowls",
+"answer": "funky",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "savin",
+"answer": "droop",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "perae",
+"answer": "zebra",
+"pattern": [
+0,
+2,
+1,
+1,
+0
+],
+"code": 66
+},
+{
+"guess": "oncet",
+"answer": "birch",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "thirl",
+"answer": "thumb",
+"pattern": [
+2,
+2,
+0,
+0,
+0
+],
+"code": 216
+},
+{
+"guess": "axiom",
+"answer": "scrap",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "aswim",
+"answer": "cubic",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "bines",
+"answer": "cream",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "shawl",
+"answer": "plumb",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "wizes",
+"answer": "prone",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "petit",
+"answer": "swung",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "brush",
+"answer": "smash",
+"pattern": [
+0,
+0,
+0,
+2,
+2
+],
+"code": 8
+},
+{
+"guess": "plena",
+"answer": "sheen",
+"pattern": [
+0,
+0,
+2,
+1,
+0
+],
+"code": 21
+},
+{
+"guess": "dough",
+"answer": "hippo",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "psoas",
+"answer": "drool",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "runup",
+"answer": "sissy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sower",
+"answer": "downy",
+"pattern": [
+0,
+2,
+2,
+0,
+0
+],
+"code": 72
+},
+{
+"guess": "abaka",
+"answer": "board",
+"pattern": [
+0,
+1,
+2,
+0,
+0
+],
+"code": 45
+},
+{
+"guess": "coxal",
+"answer": "botch",
+"pattern": [
+1,
+2,
+0,
+0,
+0
+],
+"code": 135
+},
+{
+"guess": "ceiba",
+"answer": "ridge",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "ozzie",
+"answer": "rhyme",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "mosts",
+"answer": "choir",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "omiai",
+"answer": "blond",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "sayed",
+"answer": "birch",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "burps",
+"answer": "grunt",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "tuina",
+"answer": "quoth",
+"pattern": [
+1,
+2,
+0,
+0,
+0
+],
+"code": 135
+},
+{
+"guess": "paips",
+"answer": "stake",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "yokes",
+"answer": "wiser",
+"pattern": [
+0,
+0,
+0,
+2,
+1
+],
+"code": 7
+},
+{
+"guess": "noyes",
+"answer": "utter",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "forty",
+"answer": "cello",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "pulik",
+"answer": "leash",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "ephas",
+"answer": "lunar",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "dowly",
+"answer": "seize",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "snies",
+"answer": "lance",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "fella",
+"answer": "rally",
+"pattern": [
+0,
+0,
+2,
+2,
+1
+],
+"code": 25
+},
+{
+"guess": "sairs",
+"answer": "dodgy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "gursh",
+"answer": "flung",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "pongo",
+"answer": "alloy",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "polts",
+"answer": "cheap",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "lofts",
+"answer": "stash",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "blimy",
+"answer": "chock",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "imams",
+"answer": "buggy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sigma",
+"answer": "icily",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "elude",
+"answer": "swami",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "vicus",
+"answer": "raise",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "bomor",
+"answer": "threw",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "guise",
+"answer": "baggy",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "sonce",
+"answer": "strap",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "gleby",
+"answer": "prowl",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "rejas",
+"answer": "grain",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "tokay",
+"answer": "swoop",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "matai",
+"answer": "muddy",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "lauch",
+"answer": "decoy",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "mooly",
+"answer": "cargo",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "bakra",
+"answer": "image",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "casco",
+"answer": "fiery",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "lyted",
+"answer": "strip",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "perdu",
+"answer": "bleep",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "stell",
+"answer": "lumpy",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "rives",
+"answer": "pinky",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "saver",
+"answer": "snide",
+"pattern": [
+2,
+0,
+0,
+1,
+0
+],
+"code": 165
+},
+{
+"guess": "cloop",
+"answer": "steam",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sorex",
+"answer": "batty",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "vangs",
+"answer": "saucy",
+"pattern": [
+0,
+2,
+0,
+0,
+1
+],
+"code": 55
+},
+{
+"guess": "fetts",
+"answer": "gazer",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "babus",
+"answer": "bison",
+"pattern": [
+2,
+0,
+0,
+0,
+1
+],
+"code": 163
+},
+{
+"guess": "hawks",
+"answer": "exult",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "myops",
+"answer": "cried",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "tough",
+"answer": "naval",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "mesto",
+"answer": "grime",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "kiaat",
+"answer": "coven",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "dauts",
+"answer": "cross",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "bokos",
+"answer": "handy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "finch",
+"answer": "alien",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "dirks",
+"answer": "dicey",
+"pattern": [
+2,
+2,
+0,
+0,
+0
+],
+"code": 216
+},
+{
+"guess": "sprad",
+"answer": "smite",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "niffy",
+"answer": "allay",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "razed",
+"answer": "giver",
+"pattern": [
+1,
+0,
+0,
+2,
+0
+],
+"code": 87
+},
+{
+"guess": "stern",
+"answer": "aunty",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "aargh",
+"answer": "clout",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "feens",
+"answer": "snarl",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "mungs",
+"answer": "abbot",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "emerg",
+"answer": "dryer",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "taver",
+"answer": "might",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "slart",
+"answer": "decry",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "amass",
+"answer": "arena",
+"pattern": [
+2,
+0,
+1,
+0,
+0
+],
+"code": 171
+},
+{
+"guess": "haunt",
+"answer": "swell",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "berks",
+"answer": "clean",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "plena",
+"answer": "humph",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "bitos",
+"answer": "ought",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "melba",
+"answer": "carry",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "yoppo",
+"answer": "spunk",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "seams",
+"answer": "tripe",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "doums",
+"answer": "motel",
+"pattern": [
+0,
+2,
+0,
+1,
+0
+],
+"code": 57
+},
+{
+"guess": "inset",
+"answer": "pence",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "mitas",
+"answer": "mauve",
+"pattern": [
+2,
+0,
+0,
+1,
+0
+],
+"code": 165
+},
+{
+"guess": "wynns",
+"answer": "hymen",
+"pattern": [
+0,
+2,
+1,
+0,
+0
+],
+"code": 63
+},
+{
+"guess": "tiger",
+"answer": "party",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "gryce",
+"answer": "bossy",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "banks",
+"answer": "umbra",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "sanga",
+"answer": "sleet",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "noyau",
+"answer": "intro",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "short",
+"answer": "carry",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "rouge",
+"answer": "waltz",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pauxi",
+"answer": "batty",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "kopje",
+"answer": "youth",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "unzip",
+"answer": "watch",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "cuffs",
+"answer": "spark",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "prowk",
+"answer": "vista",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "phone",
+"answer": "inept",
+"pattern": [
+1,
+0,
+0,
+1,
+1
+],
+"code": 85
+},
+{
+"guess": "sniff",
+"answer": "decal",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "nuevo",
+"answer": "photo",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "gaitt",
+"answer": "aware",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "tomoz",
+"answer": "grant",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "facto",
+"answer": "smite",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "redes",
+"answer": "cease",
+"pattern": [
+0,
+2,
+0,
+1,
+1
+],
+"code": 58
+},
+{
+"guess": "durry",
+"answer": "lathe",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "roach",
+"answer": "glide",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ulnad",
+"answer": "cairn",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "rewth",
+"answer": "flock",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "elfin",
+"answer": "loath",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "capas",
+"answer": "ideal",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "floor",
+"answer": "plead",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "orgue",
+"answer": "glade",
+"pattern": [
+0,
+0,
+1,
+0,
+2
+],
+"code": 11
+},
+{
+"guess": "saman",
+"answer": "radar",
+"pattern": [
+0,
+2,
+0,
+2,
+0
+],
+"code": 60
+},
+{
+"guess": "sorta",
+"answer": "wrath",
+"pattern": [
+0,
+0,
+1,
+2,
+1
+],
+"code": 16
+},
+{
+"guess": "pooch",
+"answer": "spoof",
+"pattern": [
+1,
+1,
+2,
+0,
+0
+],
+"code": 126
+},
+{
+"guess": "soldo",
+"answer": "agape",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "dyked",
+"answer": "prude",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "civvy",
+"answer": "store",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sheer",
+"answer": "crust",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "fidge",
+"answer": "treat",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "totty",
+"answer": "prick",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "leady",
+"answer": "crate",
+"pattern": [
+0,
+1,
+2,
+0,
+0
+],
+"code": 45
+},
+{
+"guess": "baiza",
+"answer": "churn",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pyoid",
+"answer": "slink",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "jebel",
+"answer": "party",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "wined",
+"answer": "attic",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "banal",
+"answer": "sperm",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "puses",
+"answer": "meaty",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "motes",
+"answer": "valid",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "momma",
+"answer": "vague",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "optic",
+"answer": "voice",
+"pattern": [
+1,
+0,
+0,
+1,
+1
+],
+"code": 85
+},
+{
+"guess": "sants",
+"answer": "close",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "titch",
+"answer": "crook",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "rimus",
+"answer": "aphid",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "nying",
+"answer": "quote",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "zezes",
+"answer": "roast",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "lifey",
+"answer": "honey",
+"pattern": [
+0,
+0,
+0,
+2,
+2
+],
+"code": 8
+},
+{
+"guess": "aloes",
+"answer": "briny",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "birch",
+"answer": "spook",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "doles",
+"answer": "derby",
+"pattern": [
+2,
+0,
+0,
+1,
+0
+],
+"code": 165
+},
+{
+"guess": "perce",
+"answer": "quash",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "chowk",
+"answer": "eagle",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "afret",
+"answer": "blank",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "secco",
+"answer": "album",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "chola",
+"answer": "score",
+"pattern": [
+1,
+0,
+2,
+0,
+0
+],
+"code": 99
+},
+{
+"guess": "bendy",
+"answer": "order",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "yomim",
+"answer": "fairy",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "indow",
+"answer": "skate",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "owing",
+"answer": "spasm",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "scare",
+"answer": "stout",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "sissy",
+"answer": "spoil",
+"pattern": [
+2,
+1,
+0,
+0,
+0
+],
+"code": 189
+},
+{
+"guess": "inert",
+"answer": "heart",
+"pattern": [
+0,
+0,
+1,
+2,
+2
+],
+"code": 17
+},
+{
+"guess": "foods",
+"answer": "vouch",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "tains",
+"answer": "swath",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "doyen",
+"answer": "stoic",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "cleik",
+"answer": "scamp",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "narky",
+"answer": "trust",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "riffs",
+"answer": "pasty",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "subby",
+"answer": "bread",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "queso",
+"answer": "agree",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "frown",
+"answer": "haunt",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "iched",
+"answer": "aorta",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ideas",
+"answer": "hotly",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "choco",
+"answer": "nobly",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "loled",
+"answer": "fleck",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "suers",
+"answer": "dream",
+"pattern": [
+0,
+0,
+2,
+1,
+0
+],
+"code": 21
+},
+{
+"guess": "rayls",
+"answer": "swing",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "field",
+"answer": "kayak",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "awmry",
+"answer": "edict",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "mucic",
+"answer": "nerdy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "moyls",
+"answer": "riser",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "mokus",
+"answer": "conch",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "robur",
+"answer": "aisle",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "lweis",
+"answer": "bevel",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "dutch",
+"answer": "worse",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "aggri",
+"answer": "slush",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ceils",
+"answer": "hippy",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "ensky",
+"answer": "cream",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "swelt",
+"answer": "kappa",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "vapid",
+"answer": "corny",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "unite",
+"answer": "opera",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "beard",
+"answer": "decoy",
+"pattern": [
+0,
+2,
+0,
+0,
+1
+],
+"code": 55
+},
+{
+"guess": "heare",
+"answer": "scoff",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "jenny",
+"answer": "gloss",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "wadds",
+"answer": "theme",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pluke",
+"answer": "flora",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "sisal",
+"answer": "ghost",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "macte",
+"answer": "lunge",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "ramsh",
+"answer": "aloft",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "beton",
+"answer": "press",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "rabid",
+"answer": "taboo",
+"pattern": [
+0,
+2,
+2,
+0,
+0
+],
+"code": 72
+},
+{
+"guess": "clote",
+"answer": "chief",
+"pattern": [
+2,
+0,
+0,
+0,
+1
+],
+"code": 163
+},
+{
+"guess": "yowls",
+"answer": "vivid",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "hogoh",
+"answer": "flask",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "rufus",
+"answer": "villa",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "viral",
+"answer": "patio",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "yukos",
+"answer": "minty",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "cozes",
+"answer": "abhor",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "globy",
+"answer": "whose",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "pical",
+"answer": "bagel",
+"pattern": [
+0,
+0,
+0,
+1,
+2
+],
+"code": 5
+},
+{
+"guess": "visie",
+"answer": "leech",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "chivy",
+"answer": "adult",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "droid",
+"answer": "ethic",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "luter",
+"answer": "dilly",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "youth",
+"answer": "sloth",
+"pattern": [
+0,
+1,
+0,
+2,
+2
+],
+"code": 35
+},
+{
+"guess": "heths",
+"answer": "kayak",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "yearn",
+"answer": "dwarf",
+"pattern": [
+0,
+0,
+2,
+2,
+0
+],
+"code": 24
+},
+{
+"guess": "dawen",
+"answer": "witch",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "mungo",
+"answer": "scald",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "cheer",
+"answer": "seize",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "hider",
+"answer": "wreak",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "barde",
+"answer": "being",
+"pattern": [
+2,
+0,
+0,
+0,
+1
+],
+"code": 163
+},
+{
+"guess": "apted",
+"answer": "haute",
+"pattern": [
+1,
+0,
+1,
+1,
+0
+],
+"code": 93
+},
+{
+"guess": "hears",
+"answer": "paler",
+"pattern": [
+0,
+1,
+1,
+1,
+0
+],
+"code": 39
+},
+{
+"guess": "mirly",
+"answer": "wheat",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "zaris",
+"answer": "fancy",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "viper",
+"answer": "deter",
+"pattern": [
+0,
+0,
+0,
+2,
+2
+],
+"code": 8
+},
+{
+"guess": "budes",
+"answer": "crone",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "nizam",
+"answer": "biome",
+"pattern": [
+0,
+2,
+0,
+0,
+1
+],
+"code": 55
+},
+{
+"guess": "jowed",
+"answer": "agape",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "hewed",
+"answer": "fiend",
+"pattern": [
+0,
+1,
+0,
+0,
+2
+],
+"code": 29
+},
+{
+"guess": "vadge",
+"answer": "dusty",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "aunts",
+"answer": "caste",
+"pattern": [
+1,
+0,
+0,
+2,
+1
+],
+"code": 88
+},
+{
+"guess": "broom",
+"answer": "rayon",
+"pattern": [
+0,
+1,
+0,
+2,
+0
+],
+"code": 33
+},
+{
+"guess": "ossia",
+"answer": "awoke",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "tamer",
+"answer": "fight",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "milks",
+"answer": "smote",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "herps",
+"answer": "swept",
+"pattern": [
+0,
+1,
+0,
+2,
+1
+],
+"code": 34
+},
+{
+"guess": "krays",
+"answer": "chief",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "fully",
+"answer": "gravy",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "roary",
+"answer": "afire",
+"pattern": [
+0,
+0,
+1,
+2,
+0
+],
+"code": 15
+},
+{
+"guess": "vales",
+"answer": "slant",
+"pattern": [
+0,
+1,
+1,
+0,
+1
+],
+"code": 37
+},
+{
+"guess": "jisms",
+"answer": "truer",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "spane",
+"answer": "sniff",
+"pattern": [
+2,
+0,
+0,
+1,
+0
+],
+"code": 165
+},
+{
+"guess": "colog",
+"answer": "straw",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "wekas",
+"answer": "mossy",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "avale",
+"answer": "widow",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "galia",
+"answer": "shake",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "woads",
+"answer": "flier",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "nashi",
+"answer": "thong",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "waite",
+"answer": "parry",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "stymy",
+"answer": "prism",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "knurr",
+"answer": "teddy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "rakki",
+"answer": "optic",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "solum",
+"answer": "datum",
+"pattern": [
+0,
+0,
+0,
+2,
+2
+],
+"code": 8
+},
+{
+"guess": "tokay",
+"answer": "tatty",
+"pattern": [
+2,
+0,
+0,
+1,
+2
+],
+"code": 167
+},
+{
+"guess": "blatt",
+"answer": "coven",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ripen",
+"answer": "slate",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "urite",
+"answer": "evict",
+"pattern": [
+0,
+0,
+2,
+1,
+1
+],
+"code": 22
+},
+{
+"guess": "enact",
+"answer": "wafer",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "diddy",
+"answer": "hinge",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "route",
+"answer": "expel",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "tenne",
+"answer": "movie",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "fauve",
+"answer": "nymph",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sutta",
+"answer": "whirl",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "neese",
+"answer": "flake",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "khors",
+"answer": "scent",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "butyl",
+"answer": "which",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "spods",
+"answer": "slosh",
+"pattern": [
+2,
+0,
+2,
+0,
+1
+],
+"code": 181
+},
+{
+"guess": "bends",
+"answer": "liken",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "abate",
+"answer": "rapid",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "towno",
+"answer": "scaly",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bulse",
+"answer": "eater",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "aloud",
+"answer": "shown",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "wiver",
+"answer": "anime",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "ulyie",
+"answer": "chest",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "stere",
+"answer": "gonad",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "trock",
+"answer": "flank",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "tweet",
+"answer": "unfed",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "muons",
+"answer": "stale",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "darzi",
+"answer": "logic",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "quipo",
+"answer": "spiky",
+"pattern": [
+0,
+0,
+2,
+1,
+0
+],
+"code": 21
+},
+{
+"guess": "besat",
+"answer": "thrum",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "dirty",
+"answer": "gypsy",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "moist",
+"answer": "cream",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "ammas",
+"answer": "flack",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "jocky",
+"answer": "cover",
+"pattern": [
+0,
+2,
+1,
+0,
+0
+],
+"code": 63
+},
+{
+"guess": "thiol",
+"answer": "crawl",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "pieta",
+"answer": "women",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "bunce",
+"answer": "cacao",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "pasmo",
+"answer": "chick",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "boons",
+"answer": "cumin",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "nervy",
+"answer": "irony",
+"pattern": [
+1,
+0,
+1,
+0,
+2
+],
+"code": 92
+},
+{
+"guess": "judgy",
+"answer": "slick",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "stilt",
+"answer": "lingo",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "whits",
+"answer": "liver",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "aloos",
+"answer": "acorn",
+"pattern": [
+2,
+0,
+2,
+0,
+0
+],
+"code": 180
+},
+{
+"guess": "binge",
+"answer": "flash",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "brogh",
+"answer": "shift",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "owres",
+"answer": "civic",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "wanks",
+"answer": "suite",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "cavie",
+"answer": "along",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "wadts",
+"answer": "south",
+"pattern": [
+0,
+0,
+0,
+2,
+1
+],
+"code": 7
+},
+{
+"guess": "merel",
+"answer": "latte",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "fores",
+"answer": "gland",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bidri",
+"answer": "march",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "playa",
+"answer": "nutty",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "gadjo",
+"answer": "polar",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "boner",
+"answer": "mushy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ethic",
+"answer": "swell",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "print",
+"answer": "ruder",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "parky",
+"answer": "awash",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "tamps",
+"answer": "manor",
+"pattern": [
+0,
+2,
+1,
+0,
+0
+],
+"code": 63
+},
+{
+"guess": "thigh",
+"answer": "payee",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "uprun",
+"answer": "tulip",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "bodes",
+"answer": "large",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "grout",
+"answer": "apple",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "intil",
+"answer": "pithy",
+"pattern": [
+1,
+0,
+2,
+0,
+0
+],
+"code": 99
+},
+{
+"guess": "claim",
+"answer": "ladle",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "skoff",
+"answer": "puppy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "masks",
+"answer": "charm",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "hylas",
+"answer": "mambo",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "plaps",
+"answer": "shame",
+"pattern": [
+0,
+0,
+2,
+0,
+1
+],
+"code": 19
+},
+{
+"guess": "ports",
+"answer": "crisp",
+"pattern": [
+1,
+0,
+1,
+0,
+1
+],
+"code": 91
+},
+{
+"guess": "rubor",
+"answer": "screw",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "chiel",
+"answer": "nerve",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "oleic",
+"answer": "prove",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "jowls",
+"answer": "drape",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "agmas",
+"answer": "comfy",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "ileal",
+"answer": "order",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "puppa",
+"answer": "spill",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "hires",
+"answer": "trail",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "typic",
+"answer": "plait",
+"pattern": [
+1,
+0,
+1,
+2,
+0
+],
+"code": 96
+},
+{
+"guess": "aster",
+"answer": "taunt",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "gamps",
+"answer": "scrub",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "lamia",
+"answer": "titan",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "porge",
+"answer": "prove",
+"pattern": [
+2,
+1,
+1,
+0,
+2
+],
+"code": 200
+},
+{
+"guess": "packs",
+"answer": "queue",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "clype",
+"answer": "easel",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "brows",
+"answer": "igloo",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "muter",
+"answer": "spoil",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "buist",
+"answer": "evoke",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "iodin",
+"answer": "stork",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "jammy",
+"answer": "payee",
+"pattern": [
+0,
+2,
+0,
+0,
+1
+],
+"code": 55
+},
+{
+"guess": "retam",
+"answer": "daisy",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "douma",
+"answer": "house",
+"pattern": [
+0,
+2,
+2,
+0,
+0
+],
+"code": 72
+},
+{
+"guess": "lotto",
+"answer": "spool",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "molla",
+"answer": "shame",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "brunt",
+"answer": "waste",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "raven",
+"answer": "motor",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "gites",
+"answer": "owner",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "lirks",
+"answer": "build",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "cronk",
+"answer": "fewer",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "wicky",
+"answer": "fibre",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "disme",
+"answer": "mucus",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "arish",
+"answer": "exert",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "potty",
+"answer": "tramp",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "peals",
+"answer": "tonga",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "gomer",
+"answer": "robin",
+"pattern": [
+0,
+2,
+0,
+0,
+1
+],
+"code": 55
+},
+{
+"guess": "cives",
+"answer": "usurp",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "plank",
+"answer": "goody",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sesey",
+"answer": "spare",
+"pattern": [
+2,
+1,
+0,
+0,
+0
+],
+"code": 189
+},
+{
+"guess": "locus",
+"answer": "mafia",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "moras",
+"answer": "ninny",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "kiter",
+"answer": "album",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "spick",
+"answer": "slave",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "krabs",
+"answer": "bigot",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "mawrs",
+"answer": "gaily",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "hatha",
+"answer": "scamp",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "autos",
+"answer": "singe",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "scape",
+"answer": "shone",
+"pattern": [
+2,
+0,
+0,
+0,
+2
+],
+"code": 164
+},
+{
+"guess": "manos",
+"answer": "equip",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "keens",
+"answer": "slime",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "grame",
+"answer": "psalm",
+"pattern": [
+0,
+0,
+2,
+1,
+0
+],
+"code": 21
+},
+{
+"guess": "ferny",
+"answer": "scrum",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "hollo",
+"answer": "water",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "realm",
+"answer": "tibia",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "parky",
+"answer": "piety",
+"pattern": [
+2,
+0,
+0,
+0,
+2
+],
+"code": 164
+},
+{
+"guess": "ontal",
+"answer": "ditch",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "kades",
+"answer": "taboo",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "basal",
+"answer": "silly",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "adzes",
+"answer": "dimly",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "setal",
+"answer": "clued",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "tammy",
+"answer": "swept",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "krona",
+"answer": "tango",
+"pattern": [
+0,
+0,
+1,
+1,
+1
+],
+"code": 13
+},
+{
+"guess": "guaco",
+"answer": "buddy",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "viral",
+"answer": "spoon",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "vials",
+"answer": "stuck",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "fauve",
+"answer": "round",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "brink",
+"answer": "blurt",
+"pattern": [
+2,
+1,
+0,
+0,
+0
+],
+"code": 189
+},
+{
+"guess": "sycee",
+"answer": "torus",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "luxer",
+"answer": "wreck",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "pones",
+"answer": "turbo",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "illth",
+"answer": "loose",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "lotsa",
+"answer": "manly",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "solas",
+"answer": "hussy",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "ferry",
+"answer": "dairy",
+"pattern": [
+0,
+0,
+0,
+2,
+2
+],
+"code": 8
+},
+{
+"guess": "feist",
+"answer": "nutty",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "blush",
+"answer": "rearm",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "noups",
+"answer": "tooth",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "rones",
+"answer": "itchy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "deids",
+"answer": "await",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "samba",
+"answer": "pouch",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "nidus",
+"answer": "smite",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "fetch",
+"answer": "hutch",
+"pattern": [
+0,
+0,
+2,
+2,
+2
+],
+"code": 26
+},
+{
+"guess": "geese",
+"answer": "truth",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "unrid",
+"answer": "adapt",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "nabam",
+"answer": "pluck",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pucks",
+"answer": "moult",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "ribas",
+"answer": "tacky",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "wales",
+"answer": "plump",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "beefs",
+"answer": "snarl",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "tolan",
+"answer": "space",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "moity",
+"answer": "crone",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "danse",
+"answer": "local",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "troth",
+"answer": "matey",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "dixie",
+"answer": "swing",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "razoo",
+"answer": "drown",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "hamza",
+"answer": "primo",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "vinca",
+"answer": "savoy",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "tills",
+"answer": "world",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "reest",
+"answer": "papal",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "patly",
+"answer": "croup",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "fleas",
+"answer": "vista",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "mirly",
+"answer": "zebra",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "hohed",
+"answer": "stein",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "plans",
+"answer": "rusty",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "peine",
+"answer": "abhor",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "noyed",
+"answer": "eight",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "byssi",
+"answer": "nadir",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "gramp",
+"answer": "bride",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "trick",
+"answer": "juror",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "codon",
+"answer": "unfit",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "septa",
+"answer": "nobly",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "crein",
+"answer": "lodge",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "gosht",
+"answer": "arbor",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "froom",
+"answer": "cluck",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "touze",
+"answer": "stint",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "rices",
+"answer": "lousy",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "pissy",
+"answer": "paler",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "rehem",
+"answer": "overt",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "spail",
+"answer": "voter",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "wilga",
+"answer": "grain",
+"pattern": [
+0,
+1,
+0,
+1,
+1
+],
+"code": 31
+},
+{
+"guess": "dingy",
+"answer": "alloy",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "hippy",
+"answer": "sooty",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "shady",
+"answer": "mossy",
+"pattern": [
+1,
+0,
+0,
+0,
+2
+],
+"code": 83
+},
+{
+"guess": "plump",
+"answer": "friar",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "quirt",
+"answer": "stomp",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "pivos",
+"answer": "quoth",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "gesse",
+"answer": "music",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "spule",
+"answer": "grunt",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "delta",
+"answer": "mango",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "yeans",
+"answer": "heart",
+"pattern": [
+0,
+2,
+2,
+0,
+0
+],
+"code": 72
+},
+{
+"guess": "amate",
+"answer": "natal",
+"pattern": [
+1,
+0,
+1,
+1,
+0
+],
+"code": 93
+},
+{
+"guess": "whata",
+"answer": "seize",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "kaika",
+"answer": "avert",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "bromo",
+"answer": "unfit",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "liras",
+"answer": "slime",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "schwa",
+"answer": "trump",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "anomy",
+"answer": "where",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "louns",
+"answer": "pilot",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "plead",
+"answer": "spice",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "finos",
+"answer": "afoot",
+"pattern": [
+1,
+0,
+0,
+2,
+0
+],
+"code": 87
+},
+{
+"guess": "sorgo",
+"answer": "wrote",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "snore",
+"answer": "lapse",
+"pattern": [
+1,
+0,
+0,
+0,
+2
+],
+"code": 83
+},
+{
+"guess": "flota",
+"answer": "welch",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "khyal",
+"answer": "quasi",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "duded",
+"answer": "buxom",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "jelab",
+"answer": "bribe",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "unmix",
+"answer": "joker",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "piani",
+"answer": "macaw",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "clart",
+"answer": "crane",
+"pattern": [
+2,
+0,
+2,
+1,
+0
+],
+"code": 183
+},
+{
+"guess": "ikons",
+"answer": "evade",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "fient",
+"answer": "basal",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "hawse",
+"answer": "tried",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "goomy",
+"answer": "shake",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "goaft",
+"answer": "vigor",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "bitou",
+"answer": "trawl",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "feeze",
+"answer": "aisle",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "craig",
+"answer": "ombre",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "puffa",
+"answer": "rayon",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "riley",
+"answer": "sheet",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "amass",
+"answer": "mushy",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "solos",
+"answer": "cramp",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "amain",
+"answer": "ladle",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "kunas",
+"answer": "kiosk",
+"pattern": [
+2,
+0,
+0,
+0,
+1
+],
+"code": 163
+},
+{
+"guess": "hevel",
+"answer": "mocha",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "mawky",
+"answer": "hefty",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "bumps",
+"answer": "sheik",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "burke",
+"answer": "bound",
+"pattern": [
+2,
+1,
+0,
+0,
+0
+],
+"code": 189
+},
+{
+"guess": "nulla",
+"answer": "ruddy",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "gothy",
+"answer": "skull",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "supes",
+"answer": "wooer",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "feast",
+"answer": "flier",
+"pattern": [
+2,
+1,
+0,
+0,
+0
+],
+"code": 189
+},
+{
+"guess": "seles",
+"answer": "kiosk",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "musha",
+"answer": "booze",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "saser",
+"answer": "slimy",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "sayer",
+"answer": "voila",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "bulgy",
+"answer": "ester",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "slain",
+"answer": "float",
+"pattern": [
+0,
+2,
+1,
+0,
+0
+],
+"code": 63
+},
+{
+"guess": "hecks",
+"answer": "shear",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "tossy",
+"answer": "queue",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bahus",
+"answer": "spasm",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "comae",
+"answer": "fling",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "laned",
+"answer": "valve",
+"pattern": [
+1,
+2,
+0,
+1,
+0
+],
+"code": 138
+},
+{
+"guess": "idant",
+"answer": "sulky",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "dauds",
+"answer": "track",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "still",
+"answer": "ionic",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "thing",
+"answer": "clock",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "rayne",
+"answer": "siege",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "racer",
+"answer": "fjord",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "impel",
+"answer": "choke",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "seeds",
+"answer": "seedy",
+"pattern": [
+2,
+2,
+2,
+2,
+0
+],
+"code": 240
+},
+{
+"guess": "bendy",
+"answer": "prove",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "slang",
+"answer": "frost",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "chief",
+"answer": "recur",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "naios",
+"answer": "quoth",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "battu",
+"answer": "moody",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "squib",
+"answer": "dunce",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "glamp",
+"answer": "flirt",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "datal",
+"answer": "chard",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "gland",
+"answer": "torch",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "resol",
+"answer": "annul",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "coils",
+"answer": "dizzy",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "fritz",
+"answer": "spurn",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "shiel",
+"answer": "minty",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "coses",
+"answer": "oddly",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "swerf",
+"answer": "amity",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sacra",
+"answer": "prose",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "jehus",
+"answer": "spite",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "bulgy",
+"answer": "sweet",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "dynes",
+"answer": "medic",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "steno",
+"answer": "acorn",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "salmi",
+"answer": "joist",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "ablow",
+"answer": "smell",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "chirr",
+"answer": "cheat",
+"pattern": [
+2,
+2,
+0,
+0,
+0
+],
+"code": 216
+},
+{
+"guess": "aiyoo",
+"answer": "yeast",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "tofus",
+"answer": "beard",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ulcer",
+"answer": "plead",
+"pattern": [
+0,
+2,
+0,
+1,
+0
+],
+"code": 57
+},
+{
+"guess": "matlo",
+"answer": "slosh",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "lolos",
+"answer": "undue",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "reefy",
+"answer": "pried",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "looby",
+"answer": "rodeo",
+"pattern": [
+0,
+2,
+1,
+0,
+0
+],
+"code": 63
+},
+{
+"guess": "ament",
+"answer": "shone",
+"pattern": [
+0,
+0,
+1,
+2,
+0
+],
+"code": 15
+},
+{
+"guess": "putto",
+"answer": "rebut",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "bobac",
+"answer": "sixty",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "deary",
+"answer": "graft",
+"pattern": [
+0,
+0,
+2,
+1,
+0
+],
+"code": 21
+},
+{
+"guess": "lubra",
+"answer": "snowy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "boors",
+"answer": "hussy",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "snash",
+"answer": "dealt",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "yukes",
+"answer": "spire",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "antar",
+"answer": "think",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "barbs",
+"answer": "crisp",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "rimer",
+"answer": "bison",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "decim",
+"answer": "tibia",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "denar",
+"answer": "young",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "magas",
+"answer": "spice",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "biles",
+"answer": "harsh",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "morne",
+"answer": "fiend",
+"pattern": [
+0,
+0,
+0,
+2,
+1
+],
+"code": 7
+},
+{
+"guess": "elate",
+"answer": "offal",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "stats",
+"answer": "gooey",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "stade",
+"answer": "shale",
+"pattern": [
+2,
+0,
+2,
+0,
+2
+],
+"code": 182
+},
+{
+"guess": "culet",
+"answer": "leaky",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "phase",
+"answer": "relic",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "spice",
+"answer": "covey",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "lures",
+"answer": "smash",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "doxed",
+"answer": "intro",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "arsis",
+"answer": "dolly",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "proud",
+"answer": "arise",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "herns",
+"answer": "boast",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "knick",
+"answer": "trial",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "goety",
+"answer": "prone",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "yabby",
+"answer": "edict",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "dwamy",
+"answer": "leery",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "sways",
+"answer": "easel",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "halms",
+"answer": "sober",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "disas",
+"answer": "gummy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pigly",
+"answer": "corer",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "slept",
+"answer": "scone",
+"pattern": [
+2,
+0,
+1,
+0,
+0
+],
+"code": 171
+},
+{
+"guess": "scalp",
+"answer": "uncle",
+"pattern": [
+0,
+1,
+0,
+2,
+0
+],
+"code": 33
+},
+{
+"guess": "profs",
+"answer": "green",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "tarsi",
+"answer": "avian",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "sedge",
+"answer": "alien",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "ergot",
+"answer": "brake",
+"pattern": [
+1,
+2,
+0,
+0,
+0
+],
+"code": 135
+},
+{
+"guess": "reggo",
+"answer": "honor",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "crees",
+"answer": "foray",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "veers",
+"answer": "basal",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "warst",
+"answer": "sleek",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "sager",
+"answer": "sinew",
+"pattern": [
+2,
+0,
+0,
+2,
+0
+],
+"code": 168
+},
+{
+"guess": "momma",
+"answer": "stage",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "skugs",
+"answer": "rigor",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "stedd",
+"answer": "aloof",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "kerky",
+"answer": "aorta",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "grody",
+"answer": "tarot",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "tepas",
+"answer": "apple",
+"pattern": [
+0,
+1,
+2,
+1,
+0
+],
+"code": 48
+},
+{
+"guess": "mazar",
+"answer": "beret",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "asses",
+"answer": "epoxy",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "cores",
+"answer": "month",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "turks",
+"answer": "spiel",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "hanks",
+"answer": "elite",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "spent",
+"answer": "brute",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "hwyls",
+"answer": "raven",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "scads",
+"answer": "verse",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "spine",
+"answer": "inter",
+"pattern": [
+0,
+0,
+1,
+1,
+1
+],
+"code": 13
+},
+{
+"guess": "imbed",
+"answer": "chalk",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "corgi",
+"answer": "weary",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "brede",
+"answer": "dodge",
+"pattern": [
+0,
+0,
+0,
+1,
+2
+],
+"code": 5
+},
+{
+"guess": "dados",
+"answer": "beast",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "aflaj",
+"answer": "chase",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "imido",
+"answer": "vapor",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "subas",
+"answer": "speck",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "nipet",
+"answer": "shack",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "hypos",
+"answer": "itchy",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "resow",
+"answer": "dream",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "parid",
+"answer": "match",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "fidus",
+"answer": "gloat",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "giust",
+"answer": "dingy",
+"pattern": [
+1,
+2,
+0,
+0,
+0
+],
+"code": 135
+},
+{
+"guess": "aping",
+"answer": "nurse",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "midge",
+"answer": "glove",
+"pattern": [
+0,
+0,
+0,
+1,
+2
+],
+"code": 5
+},
+{
+"guess": "bored",
+"answer": "revel",
+"pattern": [
+0,
+0,
+1,
+2,
+0
+],
+"code": 15
+},
+{
+"guess": "champ",
+"answer": "pinch",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "singe",
+"answer": "relic",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "mojos",
+"answer": "shoot",
+"pattern": [
+0,
+1,
+0,
+2,
+1
+],
+"code": 34
+},
+{
+"guess": "farad",
+"answer": "swish",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "twite",
+"answer": "amply",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "yechs",
+"answer": "these",
+"pattern": [
+0,
+1,
+0,
+1,
+1
+],
+"code": 31
+},
+{
+"guess": "dsomo",
+"answer": "seven",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "udyog",
+"answer": "odder",
+"pattern": [
+0,
+2,
+0,
+1,
+0
+],
+"code": 57
+},
+{
+"guess": "lento",
+"answer": "ivory",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "varna",
+"answer": "liver",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "gable",
+"answer": "stall",
+"pattern": [
+0,
+1,
+0,
+2,
+0
+],
+"code": 33
+},
+{
+"guess": "annoy",
+"answer": "crump",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "zuppa",
+"answer": "wagon",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "loses",
+"answer": "hunky",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "raped",
+"answer": "boast",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "axels",
+"answer": "beast",
+"pattern": [
+1,
+0,
+1,
+0,
+1
+],
+"code": 91
+},
+{
+"guess": "blabs",
+"answer": "tardy",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "towno",
+"answer": "spiky",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "shere",
+"answer": "badly",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "doole",
+"answer": "cling",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "pluke",
+"answer": "patsy",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "snied",
+"answer": "stark",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "booth",
+"answer": "eight",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "kapas",
+"answer": "trial",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "seats",
+"answer": "overt",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "rests",
+"answer": "blush",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "molts",
+"answer": "dirge",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "wight",
+"answer": "spiky",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "belie",
+"answer": "dowel",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "doona",
+"answer": "grain",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "meith",
+"answer": "armor",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "ranga",
+"answer": "olive",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sheva",
+"answer": "axion",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "cusks",
+"answer": "bosom",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "hutch",
+"answer": "third",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "troth",
+"answer": "piano",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "auras",
+"answer": "owner",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "grail",
+"answer": "pouty",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pinon",
+"answer": "angel",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "peage",
+"answer": "awful",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "hoied",
+"answer": "thief",
+"pattern": [
+1,
+0,
+2,
+2,
+0
+],
+"code": 105
+},
+{
+"guess": "vacay",
+"answer": "kinky",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "tiled",
+"answer": "defer",
+"pattern": [
+0,
+0,
+0,
+2,
+1
+],
+"code": 7
+},
+{
+"guess": "kohls",
+"answer": "amber",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "kanas",
+"answer": "color",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pinto",
+"answer": "whiny",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "crepe",
+"answer": "shade",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "ennui",
+"answer": "glaze",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "varia",
+"answer": "askew",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "skirl",
+"answer": "sower",
+"pattern": [
+2,
+0,
+0,
+1,
+0
+],
+"code": 165
+},
+{
+"guess": "vinny",
+"answer": "sworn",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "breds",
+"answer": "tasty",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "veena",
+"answer": "round",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "acted",
+"answer": "sushi",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "wyles",
+"answer": "lilac",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "fraim",
+"answer": "wheat",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "ruggy",
+"answer": "tamer",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "gamer",
+"answer": "singe",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "piony",
+"answer": "guide",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "tokos",
+"answer": "heath",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "tossy",
+"answer": "leper",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sorda",
+"answer": "purge",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "knows",
+"answer": "rally",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "roate",
+"answer": "mower",
+"pattern": [
+1,
+2,
+0,
+0,
+1
+],
+"code": 136
+},
+{
+"guess": "boomy",
+"answer": "derby",
+"pattern": [
+1,
+0,
+0,
+0,
+2
+],
+"code": 83
+},
+{
+"guess": "baggy",
+"answer": "odder",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "benis",
+"answer": "whole",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "botte",
+"answer": "chaos",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "flong",
+"answer": "mealy",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "lavas",
+"answer": "pooch",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "buyer",
+"answer": "murky",
+"pattern": [
+0,
+2,
+1,
+0,
+1
+],
+"code": 64
+},
+{
+"guess": "seely",
+"answer": "spicy",
+"pattern": [
+2,
+0,
+0,
+0,
+2
+],
+"code": 164
+},
+{
+"guess": "vajra",
+"answer": "glint",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "stone",
+"answer": "foist",
+"pattern": [
+1,
+1,
+1,
+0,
+0
+],
+"code": 117
+},
+{
+"guess": "yapon",
+"answer": "abled",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "iliac",
+"answer": "brute",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "daggy",
+"answer": "sober",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bialy",
+"answer": "realm",
+"pattern": [
+0,
+0,
+2,
+2,
+0
+],
+"code": 24
+},
+{
+"guess": "apian",
+"answer": "drunk",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "harpy",
+"answer": "parry",
+"pattern": [
+0,
+2,
+2,
+1,
+2
+],
+"code": 77
+},
+{
+"guess": "malam",
+"answer": "scowl",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "ajies",
+"answer": "wench",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "plaga",
+"answer": "cheap",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "apace",
+"answer": "grant",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "begar",
+"answer": "brawn",
+"pattern": [
+2,
+0,
+0,
+1,
+1
+],
+"code": 166
+},
+{
+"guess": "azido",
+"answer": "solve",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "miffy",
+"answer": "omega",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "raxed",
+"answer": "quail",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "menad",
+"answer": "payee",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "nutso",
+"answer": "lance",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "taals",
+"answer": "patty",
+"pattern": [
+1,
+2,
+0,
+0,
+0
+],
+"code": 135
+},
+{
+"guess": "crems",
+"answer": "dirty",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "ginzo",
+"answer": "fraud",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "leans",
+"answer": "papal",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "sangh",
+"answer": "break",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "imbos",
+"answer": "gloss",
+"pattern": [
+0,
+0,
+0,
+1,
+2
+],
+"code": 5
+},
+{
+"guess": "boree",
+"answer": "merry",
+"pattern": [
+0,
+0,
+2,
+1,
+0
+],
+"code": 21
+},
+{
+"guess": "whits",
+"answer": "click",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "daffy",
+"answer": "fresh",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "kliks",
+"answer": "gravy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "kybos",
+"answer": "abort",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "helms",
+"answer": "aunty",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "leant",
+"answer": "whelp",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "zoons",
+"answer": "bevel",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "alods",
+"answer": "glass",
+"pattern": [
+1,
+2,
+0,
+0,
+2
+],
+"code": 137
+},
+{
+"guess": "verse",
+"answer": "allot",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pacay",
+"answer": "slime",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pubes",
+"answer": "flick",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "lazzi",
+"answer": "usual",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "kings",
+"answer": "fiber",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "fulla",
+"answer": "sheen",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "heald",
+"answer": "civil",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "yulan",
+"answer": "liken",
+"pattern": [
+0,
+0,
+1,
+0,
+2
+],
+"code": 11
+},
+{
+"guess": "triol",
+"answer": "union",
+"pattern": [
+0,
+0,
+2,
+2,
+0
+],
+"code": 24
+},
+{
+"guess": "crise",
+"answer": "plunk",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "blitz",
+"answer": "bossy",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "orgue",
+"answer": "flown",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "eleet",
+"answer": "saute",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "maaed",
+"answer": "scour",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "lalls",
+"answer": "fixer",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "mutch",
+"answer": "spiel",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "meeps",
+"answer": "envoy",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "tofts",
+"answer": "natal",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "tucks",
+"answer": "panel",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "teens",
+"answer": "moist",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "whift",
+"answer": "folly",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "spiel",
+"answer": "brown",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "borms",
+"answer": "raspy",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "mauls",
+"answer": "fauna",
+"pattern": [
+0,
+2,
+2,
+0,
+0
+],
+"code": 72
+},
+{
+"guess": "taber",
+"answer": "aphid",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "pubsy",
+"answer": "drake",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "riced",
+"answer": "gawky",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "loams",
+"answer": "lying",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "emure",
+"answer": "grate",
+"pattern": [
+0,
+0,
+0,
+1,
+2
+],
+"code": 5
+},
+{
+"guess": "ville",
+"answer": "basal",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "ditty",
+"answer": "rearm",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "fanga",
+"answer": "lanky",
+"pattern": [
+0,
+2,
+2,
+0,
+0
+],
+"code": 72
+},
+{
+"guess": "immit",
+"answer": "apply",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "vinho",
+"answer": "mange",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "penal",
+"answer": "braid",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "hodja",
+"answer": "smile",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "fluor",
+"answer": "deity",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pokey",
+"answer": "ridge",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "cuzes",
+"answer": "judge",
+"pattern": [
+0,
+2,
+0,
+1,
+0
+],
+"code": 57
+},
+{
+"guess": "craft",
+"answer": "print",
+"pattern": [
+0,
+2,
+0,
+0,
+2
+],
+"code": 56
+},
+{
+"guess": "kaiak",
+"answer": "haste",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "oiran",
+"answer": "talon",
+"pattern": [
+1,
+0,
+0,
+1,
+2
+],
+"code": 86
+},
+{
+"guess": "parvo",
+"answer": "parry",
+"pattern": [
+2,
+2,
+2,
+0,
+0
+],
+"code": 234
+},
+{
+"guess": "abjad",
+"answer": "salvo",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "dazer",
+"answer": "lapse",
+"pattern": [
+0,
+2,
+0,
+1,
+0
+],
+"code": 57
+},
+{
+"guess": "mecca",
+"answer": "circa",
+"pattern": [
+0,
+0,
+1,
+2,
+2
+],
+"code": 17
+},
+{
+"guess": "grams",
+"answer": "light",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "walds",
+"answer": "flaky",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "iring",
+"answer": "right",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "still",
+"answer": "palsy",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "puddy",
+"answer": "swoop",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "buiks",
+"answer": "credo",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "smart",
+"answer": "enter",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "dusks",
+"answer": "caput",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "lurch",
+"answer": "icing",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "gyron",
+"answer": "bible",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "abris",
+"answer": "hymen",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "lazzi",
+"answer": "piano",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "crare",
+"answer": "wreak",
+"pattern": [
+0,
+2,
+1,
+0,
+1
+],
+"code": 64
+},
+{
+"guess": "tined",
+"answer": "slimy",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "wussy",
+"answer": "roger",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "solid",
+"answer": "total",
+"pattern": [
+0,
+2,
+1,
+0,
+0
+],
+"code": 63
+},
+{
+"guess": "womas",
+"answer": "false",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "ampul",
+"answer": "crone",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "riffy",
+"answer": "brush",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "shtup",
+"answer": "tough",
+"pattern": [
+0,
+1,
+1,
+1,
+0
+],
+"code": 39
+},
+{
+"guess": "haafs",
+"answer": "front",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "craps",
+"answer": "abled",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "thumb",
+"answer": "tithe",
+"pattern": [
+2,
+1,
+0,
+0,
+0
+],
+"code": 189
+},
+{
+"guess": "palak",
+"answer": "abode",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "molar",
+"answer": "label",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "sient",
+"answer": "burly",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pagne",
+"answer": "folly",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "arils",
+"answer": "civil",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "riffy",
+"answer": "whole",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "okrug",
+"answer": "began",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "skeos",
+"answer": "scrap",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "senna",
+"answer": "input",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "naeve",
+"answer": "gumbo",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "gests",
+"answer": "tasty",
+"pattern": [
+0,
+0,
+2,
+2,
+0
+],
+"code": 24
+},
+{
+"guess": "bulbs",
+"answer": "donor",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "wryly",
+"answer": "awash",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "edger",
+"answer": "retry",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "lours",
+"answer": "shown",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "latch",
+"answer": "crash",
+"pattern": [
+0,
+1,
+0,
+1,
+2
+],
+"code": 32
+},
+{
+"guess": "murgi",
+"answer": "avert",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "fudge",
+"answer": "wimpy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "amias",
+"answer": "cutie",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "joked",
+"answer": "terse",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "pixel",
+"answer": "girth",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "glift",
+"answer": "valor",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "fiend",
+"answer": "savvy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "avows",
+"answer": "twang",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "cuter",
+"answer": "cower",
+"pattern": [
+2,
+0,
+0,
+2,
+2
+],
+"code": 170
+},
+{
+"guess": "fakey",
+"answer": "radar",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "comae",
+"answer": "condo",
+"pattern": [
+2,
+2,
+0,
+0,
+0
+],
+"code": 216
+},
+{
+"guess": "parch",
+"answer": "geese",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "phyma",
+"answer": "waist",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "yomps",
+"answer": "fizzy",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "crias",
+"answer": "binge",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "recue",
+"answer": "devil",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "pikis",
+"answer": "jumpy",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "boult",
+"answer": "quark",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "seifs",
+"answer": "derby",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "raggy",
+"answer": "shake",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "ferry",
+"answer": "shaft",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "ludes",
+"answer": "fifty",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "atimy",
+"answer": "dress",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "gurks",
+"answer": "grout",
+"pattern": [
+2,
+1,
+1,
+0,
+0
+],
+"code": 198
+},
+{
+"guess": "mitry",
+"answer": "exist",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "mizzy",
+"answer": "taint",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "julia",
+"answer": "flick",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "garbs",
+"answer": "drink",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "jumpy",
+"answer": "plait",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "loams",
+"answer": "rival",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "dykey",
+"answer": "staff",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "depth",
+"answer": "check",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "clips",
+"answer": "leant",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "tours",
+"answer": "trout",
+"pattern": [
+2,
+1,
+1,
+1,
+0
+],
+"code": 201
+},
+{
+"guess": "naira",
+"answer": "gazer",
+"pattern": [
+0,
+2,
+0,
+1,
+0
+],
+"code": 57
+},
+{
+"guess": "ludic",
+"answer": "surer",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "pungo",
+"answer": "tilde",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "resaw",
+"answer": "snaky",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "skunk",
+"answer": "talon",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "prowl",
+"answer": "paler",
+"pattern": [
+2,
+1,
+0,
+0,
+1
+],
+"code": 190
+},
+{
+"guess": "gandy",
+"answer": "pixie",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "paire",
+"answer": "junta",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "unled",
+"answer": "truly",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "stoae",
+"answer": "blame",
+"pattern": [
+0,
+0,
+0,
+1,
+2
+],
+"code": 5
+},
+{
+"guess": "tangy",
+"answer": "corer",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "soaps",
+"answer": "carat",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "ratty",
+"answer": "lapse",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "pallu",
+"answer": "tenor",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "slums",
+"answer": "quest",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "tends",
+"answer": "prism",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "laccy",
+"answer": "pouty",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "rikwa",
+"answer": "upper",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "looks",
+"answer": "snore",
+"pattern": [
+0,
+0,
+2,
+0,
+1
+],
+"code": 19
+},
+{
+"guess": "krang",
+"answer": "mirth",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "fanga",
+"answer": "weird",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "honks",
+"answer": "gamer",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "vaded",
+"answer": "guile",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "alder",
+"answer": "belle",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "manoa",
+"answer": "scram",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "biped",
+"answer": "erect",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "corso",
+"answer": "shall",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "moody",
+"answer": "dirge",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "clews",
+"answer": "expel",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "rougy",
+"answer": "growl",
+"pattern": [
+1,
+1,
+0,
+1,
+0
+],
+"code": 111
+},
+{
+"guess": "inapt",
+"answer": "arrow",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "pents",
+"answer": "hydro",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "artsy",
+"answer": "shelf",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "bides",
+"answer": "sloop",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "scurf",
+"answer": "joint",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "theta",
+"answer": "queue",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "fungo",
+"answer": "panic",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "renos",
+"answer": "cable",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "expel",
+"answer": "gipsy",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "furth",
+"answer": "unite",
+"pattern": [
+0,
+1,
+0,
+2,
+0
+],
+"code": 33
+},
+{
+"guess": "polly",
+"answer": "begin",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "older",
+"answer": "rover",
+"pattern": [
+1,
+0,
+0,
+2,
+2
+],
+"code": 89
+},
+{
+"guess": "plews",
+"answer": "amiss",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "chirk",
+"answer": "linen",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "susus",
+"answer": "stank",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "asada",
+"answer": "honey",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "nunky",
+"answer": "unfed",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "baisa",
+"answer": "humph",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "denis",
+"answer": "perky",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "toran",
+"answer": "cacti",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "porge",
+"answer": "gaily",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "jaune",
+"answer": "hovel",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "mahwa",
+"answer": "mummy",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "ranch",
+"answer": "razor",
+"pattern": [
+2,
+2,
+0,
+0,
+0
+],
+"code": 216
+},
+{
+"guess": "felty",
+"answer": "lemon",
+"pattern": [
+0,
+2,
+1,
+0,
+0
+],
+"code": 63
+},
+{
+"guess": "urena",
+"answer": "flume",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "fever",
+"answer": "sully",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "brung",
+"answer": "swept",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "grads",
+"answer": "shark",
+"pattern": [
+0,
+1,
+2,
+0,
+1
+],
+"code": 46
+},
+{
+"guess": "teiid",
+"answer": "pause",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "obied",
+"answer": "gumbo",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "malmy",
+"answer": "eight",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "tokos",
+"answer": "crude",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pilaw",
+"answer": "major",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "elbow",
+"answer": "sworn",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "saola",
+"answer": "scowl",
+"pattern": [
+2,
+0,
+2,
+1,
+0
+],
+"code": 183
+},
+{
+"guess": "ngati",
+"answer": "armor",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "poets",
+"answer": "borax",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "manoa",
+"answer": "chime",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "ritts",
+"answer": "axion",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "vigia",
+"answer": "curse",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "skail",
+"answer": "taper",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "pease",
+"answer": "rigid",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "cryne",
+"answer": "quilt",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ponce",
+"answer": "drunk",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "house",
+"answer": "might",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "ileum",
+"answer": "dimly",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "meaty",
+"answer": "drank",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "patly",
+"answer": "flier",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "claps",
+"answer": "conic",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "hoyle",
+"answer": "ledge",
+"pattern": [
+0,
+0,
+0,
+1,
+2
+],
+"code": 5
+},
+{
+"guess": "naevi",
+"answer": "trove",
+"pattern": [
+0,
+0,
+1,
+2,
+0
+],
+"code": 15
+},
+{
+"guess": "loral",
+"answer": "raspy",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "roped",
+"answer": "tryst",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "emacs",
+"answer": "voila",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "rodeo",
+"answer": "itchy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "unsod",
+"answer": "nerdy",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "sasse",
+"answer": "skull",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "roads",
+"answer": "sneak",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "staps",
+"answer": "scrum",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "tonic",
+"answer": "twang",
+"pattern": [
+2,
+0,
+1,
+0,
+0
+],
+"code": 171
+},
+{
+"guess": "guars",
+"answer": "mulch",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "acorn",
+"answer": "sober",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "fitna",
+"answer": "banal",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "parly",
+"answer": "forte",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "sowps",
+"answer": "scale",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "asper",
+"answer": "stool",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "pures",
+"answer": "flint",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "minas",
+"answer": "musty",
+"pattern": [
+2,
+0,
+0,
+0,
+1
+],
+"code": 163
+},
+{
+"guess": "ollie",
+"answer": "gummy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "scrim",
+"answer": "brief",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "laddu",
+"answer": "right",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "dowly",
+"answer": "canal",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "lotic",
+"answer": "surer",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "parid",
+"answer": "gayly",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "litai",
+"answer": "wrath",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "augen",
+"answer": "smoky",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "towse",
+"answer": "llama",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "veldt",
+"answer": "bland",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "globy",
+"answer": "wheel",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "ugged",
+"answer": "wispy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "mihis",
+"answer": "piggy",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "zooks",
+"answer": "femur",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "vulva",
+"answer": "ombre",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "kissy",
+"answer": "bride",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "thale",
+"answer": "leash",
+"pattern": [
+0,
+1,
+2,
+1,
+1
+],
+"code": 49
+},
+{
+"guess": "sexes",
+"answer": "young",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "lairs",
+"answer": "bulge",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "pizer",
+"answer": "chafe",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "assez",
+"answer": "dream",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "totem",
+"answer": "unite",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "rifts",
+"answer": "alert",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "fille",
+"answer": "slurp",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "speak",
+"answer": "incur",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sadza",
+"answer": "guilt",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bhuts",
+"answer": "throw",
+"pattern": [
+0,
+2,
+0,
+1,
+0
+],
+"code": 57
+},
+{
+"guess": "piped",
+"answer": "metal",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "tarts",
+"answer": "stank",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "clans",
+"answer": "sadly",
+"pattern": [
+0,
+1,
+1,
+0,
+1
+],
+"code": 37
+},
+{
+"guess": "tench",
+"answer": "shark",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "niffs",
+"answer": "otter",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "satay",
+"answer": "fling",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "seils",
+"answer": "found",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "flirt",
+"answer": "piney",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "bachs",
+"answer": "jumbo",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "samps",
+"answer": "briny",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "gayly",
+"answer": "swirl",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "props",
+"answer": "circa",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "fands",
+"answer": "pizza",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "spied",
+"answer": "piggy",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "nempt",
+"answer": "shone",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "kibes",
+"answer": "timer",
+"pattern": [
+0,
+2,
+0,
+2,
+0
+],
+"code": 60
+},
+{
+"guess": "peony",
+"answer": "spoil",
+"pattern": [
+1,
+0,
+2,
+0,
+0
+],
+"code": 99
+},
+{
+"guess": "noema",
+"answer": "gawky",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "mesca",
+"answer": "sumac",
+"pattern": [
+1,
+0,
+1,
+1,
+1
+],
+"code": 94
+},
+{
+"guess": "shads",
+"answer": "unite",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "strad",
+"answer": "flank",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "kajal",
+"answer": "mince",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "mixen",
+"answer": "itchy",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "cokes",
+"answer": "thong",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "achar",
+"answer": "steak",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "ducti",
+"answer": "spare",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "compo",
+"answer": "issue",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "therm",
+"answer": "mealy",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "hithe",
+"answer": "thief",
+"pattern": [
+1,
+1,
+1,
+0,
+1
+],
+"code": 118
+},
+{
+"guess": "aloof",
+"answer": "floss",
+"pattern": [
+0,
+2,
+2,
+0,
+1
+],
+"code": 73
+},
+{
+"guess": "unfix",
+"answer": "cedar",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "leany",
+"answer": "tuber",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "capul",
+"answer": "widen",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "meeps",
+"answer": "obese",
+"pattern": [
+0,
+1,
+2,
+0,
+1
+],
+"code": 46
+},
+{
+"guess": "metal",
+"answer": "utile",
+"pattern": [
+0,
+1,
+1,
+0,
+1
+],
+"code": 37
+},
+{
+"guess": "gable",
+"answer": "green",
+"pattern": [
+2,
+0,
+0,
+0,
+1
+],
+"code": 163
+},
+{
+"guess": "whelk",
+"answer": "bawdy",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "fogos",
+"answer": "equip",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "prate",
+"answer": "paler",
+"pattern": [
+2,
+1,
+1,
+0,
+1
+],
+"code": 199
+},
+{
+"guess": "froth",
+"answer": "cress",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "doily",
+"answer": "hydro",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "belga",
+"answer": "enemy",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "burfi",
+"answer": "think",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "centu",
+"answer": "guile",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "liens",
+"answer": "baste",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "world",
+"answer": "heavy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "trued",
+"answer": "scowl",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "skuas",
+"answer": "allot",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "blues",
+"answer": "fishy",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "crank",
+"answer": "coast",
+"pattern": [
+2,
+0,
+2,
+0,
+0
+],
+"code": 180
+},
+{
+"guess": "inset",
+"answer": "study",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "maqui",
+"answer": "craze",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "speks",
+"answer": "irate",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "gland",
+"answer": "flora",
+"pattern": [
+0,
+2,
+1,
+0,
+0
+],
+"code": 63
+},
+{
+"guess": "leses",
+"answer": "finer",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "tagma",
+"answer": "shack",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "stivy",
+"answer": "exile",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "skank",
+"answer": "swore",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "sulfa",
+"answer": "ester",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "gapos",
+"answer": "blurb",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "endue",
+"answer": "surer",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "sarvo",
+"answer": "trope",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "semee",
+"answer": "owner",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "loids",
+"answer": "aging",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "misos",
+"answer": "winch",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "execs",
+"answer": "below",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "duett",
+"answer": "shock",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "hists",
+"answer": "scent",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "chops",
+"answer": "draft",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "methy",
+"answer": "again",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "beret",
+"answer": "spunk",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "saber",
+"answer": "brief",
+"pattern": [
+0,
+0,
+1,
+2,
+1
+],
+"code": 16
+},
+{
+"guess": "rully",
+"answer": "freer",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "biter",
+"answer": "vowel",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "knobs",
+"answer": "weary",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "helot",
+"answer": "krill",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "apply",
+"answer": "snowy",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "tythe",
+"answer": "creed",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "sawed",
+"answer": "which",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "tafia",
+"answer": "money",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "catch",
+"answer": "leech",
+"pattern": [
+0,
+0,
+0,
+2,
+2
+],
+"code": 8
+},
+{
+"guess": "sewan",
+"answer": "woody",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "dwalm",
+"answer": "stead",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "booms",
+"answer": "onset",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "fuffs",
+"answer": "dutch",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "strae",
+"answer": "think",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "atilt",
+"answer": "avert",
+"pattern": [
+2,
+0,
+0,
+0,
+2
+],
+"code": 164
+},
+{
+"guess": "lurry",
+"answer": "bagel",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "makaf",
+"answer": "slunk",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "rices",
+"answer": "gayly",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "chare",
+"answer": "quest",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "araba",
+"answer": "blimp",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "teffs",
+"answer": "weary",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "peris",
+"answer": "madly",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "kecks",
+"answer": "ultra",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "yauld",
+"answer": "often",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "virgo",
+"answer": "haven",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "gunks",
+"answer": "shirt",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "aures",
+"answer": "husky",
+"pattern": [
+0,
+2,
+0,
+0,
+1
+],
+"code": 55
+},
+{
+"guess": "manse",
+"answer": "beast",
+"pattern": [
+0,
+1,
+0,
+2,
+1
+],
+"code": 34
+},
+{
+"guess": "ennui",
+"answer": "salon",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "immew",
+"answer": "furor",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "polje",
+"answer": "human",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "space",
+"answer": "trait",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "dribs",
+"answer": "cello",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "kilig",
+"answer": "teach",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "madre",
+"answer": "jumpy",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "cleep",
+"answer": "rajah",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "tumor",
+"answer": "virus",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "grise",
+"answer": "study",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "furos",
+"answer": "flaky",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "leant",
+"answer": "vivid",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bafts",
+"answer": "azure",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "recce",
+"answer": "begun",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "runic",
+"answer": "slept",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "apple",
+"answer": "suite",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "prowl",
+"answer": "skull",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "nepit",
+"answer": "inept",
+"pattern": [
+1,
+1,
+1,
+1,
+2
+],
+"code": 122
+},
+{
+"guess": "gusty",
+"answer": "stunk",
+"pattern": [
+0,
+1,
+1,
+1,
+0
+],
+"code": 39
+},
+{
+"guess": "nonic",
+"answer": "leery",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "guans",
+"answer": "clung",
+"pattern": [
+1,
+1,
+0,
+2,
+0
+],
+"code": 114
+},
+{
+"guess": "chiba",
+"answer": "oaken",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "coach",
+"answer": "quota",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "gayal",
+"answer": "grimy",
+"pattern": [
+2,
+0,
+1,
+0,
+0
+],
+"code": 171
+},
+{
+"guess": "aloud",
+"answer": "prose",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "limby",
+"answer": "wordy",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "plout",
+"answer": "favor",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "luges",
+"answer": "death",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "tubae",
+"answer": "envoy",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "emmet",
+"answer": "dross",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "hafts",
+"answer": "louse",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "sloan",
+"answer": "incur",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "choir",
+"answer": "sandy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "plush",
+"answer": "banal",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "cosie",
+"answer": "hippy",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "intis",
+"answer": "quasi",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "izzat",
+"answer": "dowdy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sipes",
+"answer": "there",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "acral",
+"answer": "fleet",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "kriol",
+"answer": "unzip",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "mouth",
+"answer": "jumpy",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "adlib",
+"answer": "their",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "mincy",
+"answer": "juror",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "humfs",
+"answer": "hobby",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "shily",
+"answer": "spoke",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "faith",
+"answer": "borne",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pussy",
+"answer": "fishy",
+"pattern": [
+0,
+0,
+2,
+0,
+2
+],
+"code": 20
+},
+{
+"guess": "think",
+"answer": "swash",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "gonef",
+"answer": "print",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "tryer",
+"answer": "rower",
+"pattern": [
+0,
+1,
+0,
+2,
+2
+],
+"code": 35
+},
+{
+"guess": "paire",
+"answer": "flash",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "bleys",
+"answer": "spool",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "braai",
+"answer": "threw",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "wites",
+"answer": "floor",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "gleds",
+"answer": "whine",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "plups",
+"answer": "bugle",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "raspy",
+"answer": "anode",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "pesty",
+"answer": "plush",
+"pattern": [
+2,
+0,
+1,
+0,
+0
+],
+"code": 171
+},
+{
+"guess": "gouks",
+"answer": "agony",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "pawns",
+"answer": "repay",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "corny",
+"answer": "suave",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "armed",
+"answer": "covey",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "umble",
+"answer": "skunk",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "elven",
+"answer": "alien",
+"pattern": [
+0,
+2,
+0,
+2,
+2
+],
+"code": 62
+},
+{
+"guess": "spivs",
+"answer": "bevel",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "perle",
+"answer": "stump",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "rerig",
+"answer": "baron",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "cored",
+"answer": "dunce",
+"pattern": [
+1,
+0,
+0,
+1,
+1
+],
+"code": 85
+},
+{
+"guess": "tinge",
+"answer": "fight",
+"pattern": [
+1,
+2,
+0,
+1,
+0
+],
+"code": 138
+},
+{
+"guess": "tonne",
+"answer": "burly",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "adyta",
+"answer": "newer",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "tiger",
+"answer": "small",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bizzy",
+"answer": "unwed",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "gaurs",
+"answer": "image",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "lobus",
+"answer": "cabby",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "busty",
+"answer": "leaky",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "cooly",
+"answer": "wrist",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ghyll",
+"answer": "shire",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "deawy",
+"answer": "exert",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "skeps",
+"answer": "often",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "spier",
+"answer": "spunk",
+"pattern": [
+2,
+2,
+0,
+0,
+0
+],
+"code": 216
+},
+{
+"guess": "burra",
+"answer": "hyper",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "crudo",
+"answer": "taste",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "mends",
+"answer": "motif",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "refel",
+"answer": "quake",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "rorid",
+"answer": "spoil",
+"pattern": [
+0,
+1,
+0,
+2,
+0
+],
+"code": 33
+},
+{
+"guess": "extol",
+"answer": "ebony",
+"pattern": [
+2,
+0,
+0,
+1,
+0
+],
+"code": 165
+},
+{
+"guess": "maize",
+"answer": "input",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "tetri",
+"answer": "alloy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "doona",
+"answer": "sneer",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "yelts",
+"answer": "nasty",
+"pattern": [
+1,
+0,
+0,
+2,
+1
+],
+"code": 88
+},
+{
+"guess": "luvvy",
+"answer": "frisk",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sorta",
+"answer": "waver",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "trins",
+"answer": "glory",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "strep",
+"answer": "tipsy",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "richt",
+"answer": "comet",
+"pattern": [
+0,
+0,
+1,
+0,
+2
+],
+"code": 11
+},
+{
+"guess": "milky",
+"answer": "upset",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "mosks",
+"answer": "scant",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "dashy",
+"answer": "hedge",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "cabal",
+"answer": "debut",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "flyby",
+"answer": "young",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "filed",
+"answer": "snort",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "etats",
+"answer": "beset",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "taper",
+"answer": "detox",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "croon",
+"answer": "cloth",
+"pattern": [
+2,
+0,
+2,
+0,
+0
+],
+"code": 180
+},
+{
+"guess": "irade",
+"answer": "awake",
+"pattern": [
+0,
+0,
+2,
+0,
+2
+],
+"code": 20
+},
+{
+"guess": "dynel",
+"answer": "snuck",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "cower",
+"answer": "moron",
+"pattern": [
+0,
+2,
+0,
+0,
+1
+],
+"code": 55
+},
+{
+"guess": "pudor",
+"answer": "print",
+"pattern": [
+2,
+0,
+0,
+0,
+1
+],
+"code": 163
+},
+{
+"guess": "globe",
+"answer": "clink",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "festy",
+"answer": "thorn",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "bonce",
+"answer": "crack",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "thiol",
+"answer": "frame",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "rioja",
+"answer": "crock",
+"pattern": [
+1,
+0,
+2,
+0,
+0
+],
+"code": 99
+},
+{
+"guess": "slave",
+"answer": "cagey",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "perdy",
+"answer": "madam",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "selfy",
+"answer": "waltz",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "spasm",
+"answer": "aphid",
+"pattern": [
+0,
+2,
+1,
+0,
+0
+],
+"code": 63
+},
+{
+"guess": "mimsy",
+"answer": "shall",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "oinks",
+"answer": "creep",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "wexed",
+"answer": "curio",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bocks",
+"answer": "shrew",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "argon",
+"answer": "bused",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "preif",
+"answer": "syrup",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "bliss",
+"answer": "ninny",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "mungy",
+"answer": "fella",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bulky",
+"answer": "condo",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "toned",
+"answer": "delta",
+"pattern": [
+1,
+0,
+0,
+1,
+1
+],
+"code": 85
+},
+{
+"guess": "sprug",
+"answer": "tumor",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "fatty",
+"answer": "picky",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "addra",
+"answer": "thigh",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "tepoy",
+"answer": "picky",
+"pattern": [
+0,
+0,
+1,
+0,
+2
+],
+"code": 11
+},
+{
+"guess": "twier",
+"answer": "friar",
+"pattern": [
+0,
+0,
+2,
+0,
+2
+],
+"code": 20
+},
+{
+"guess": "vison",
+"answer": "graph",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "genet",
+"answer": "gamma",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "hoogo",
+"answer": "spoke",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "duvet",
+"answer": "eying",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "mamil",
+"answer": "avert",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "photo",
+"answer": "mourn",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "centu",
+"answer": "deign",
+"pattern": [
+0,
+2,
+1,
+0,
+0
+],
+"code": 63
+},
+{
+"guess": "viola",
+"answer": "sheik",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "roods",
+"answer": "gypsy",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "kills",
+"answer": "forty",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "spesh",
+"answer": "older",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "caver",
+"answer": "candy",
+"pattern": [
+2,
+2,
+0,
+0,
+0
+],
+"code": 216
+},
+{
+"guess": "azygy",
+"answer": "shrew",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "glory",
+"answer": "frisk",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "silts",
+"answer": "freer",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "houri",
+"answer": "jolly",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "riles",
+"answer": "these",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "wokka",
+"answer": "duchy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "masty",
+"answer": "write",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "wanks",
+"answer": "aping",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "sauba",
+"answer": "tiger",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "wunga",
+"answer": "trout",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "tinks",
+"answer": "leach",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "plotz",
+"answer": "leaky",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "ileal",
+"answer": "awash",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "rezes",
+"answer": "lemon",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "diane",
+"answer": "quick",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "moloi",
+"answer": "batch",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "refry",
+"answer": "disco",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "fouth",
+"answer": "chief",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "roted",
+"answer": "rainy",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "baels",
+"answer": "spice",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "chant",
+"answer": "queue",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "hires",
+"answer": "slope",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "mosed",
+"answer": "aider",
+"pattern": [
+0,
+0,
+0,
+2,
+1
+],
+"code": 7
+},
+{
+"guess": "laude",
+"answer": "creak",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "saags",
+"answer": "pitch",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "terry",
+"answer": "shaft",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "trags",
+"answer": "filly",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "murri",
+"answer": "bully",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "wimpy",
+"answer": "weary",
+"pattern": [
+2,
+0,
+0,
+0,
+2
+],
+"code": 164
+},
+{
+"guess": "mulsh",
+"answer": "vinyl",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "wooed",
+"answer": "bused",
+"pattern": [
+0,
+0,
+0,
+2,
+2
+],
+"code": 8
+},
+{
+"guess": "pisky",
+"answer": "shift",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "apayd",
+"answer": "smile",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ports",
+"answer": "alley",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "cruve",
+"answer": "askew",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "konbu",
+"answer": "gorge",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "calle",
+"answer": "canoe",
+"pattern": [
+2,
+2,
+0,
+0,
+2
+],
+"code": 218
+},
+{
+"guess": "rinks",
+"answer": "gloom",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "cabas",
+"answer": "tamer",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "peeks",
+"answer": "haute",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "crool",
+"answer": "gaunt",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "place",
+"answer": "prowl",
+"pattern": [
+2,
+1,
+0,
+0,
+0
+],
+"code": 189
+},
+{
+"guess": "mills",
+"answer": "scope",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "duals",
+"answer": "girly",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "pirog",
+"answer": "prawn",
+"pattern": [
+2,
+0,
+1,
+0,
+0
+],
+"code": 171
+},
+{
+"guess": "affly",
+"answer": "tepee",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "dosas",
+"answer": "under",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "steam",
+"answer": "great",
+"pattern": [
+0,
+1,
+2,
+2,
+0
+],
+"code": 51
+},
+{
+"guess": "sopor",
+"answer": "inlet",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "stair",
+"answer": "juice",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "mesic",
+"answer": "plier",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "ruths",
+"answer": "lance",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "reaks",
+"answer": "nymph",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "natch",
+"answer": "nadir",
+"pattern": [
+2,
+2,
+0,
+0,
+0
+],
+"code": 216
+},
+{
+"guess": "mongs",
+"answer": "fifth",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "tings",
+"answer": "dying",
+"pattern": [
+0,
+1,
+1,
+1,
+0
+],
+"code": 39
+},
+{
+"guess": "tices",
+"answer": "sulky",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "perle",
+"answer": "sever",
+"pattern": [
+0,
+2,
+1,
+0,
+1
+],
+"code": 64
+},
+{
+"guess": "dodgy",
+"answer": "cease",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "luger",
+"answer": "undue",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "umiak",
+"answer": "botch",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "betid",
+"answer": "taboo",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "natto",
+"answer": "bitty",
+"pattern": [
+0,
+0,
+2,
+2,
+0
+],
+"code": 24
+},
+{
+"guess": "smith",
+"answer": "swore",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "dolls",
+"answer": "jumpy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "laide",
+"answer": "ratty",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "duply",
+"answer": "spook",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "nazis",
+"answer": "guppy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "abele",
+"answer": "meaty",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "phang",
+"answer": "minty",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "bouge",
+"answer": "hurry",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "birls",
+"answer": "endow",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "tauon",
+"answer": "built",
+"pattern": [
+1,
+0,
+1,
+0,
+0
+],
+"code": 90
+},
+{
+"guess": "rioty",
+"answer": "begat",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "ozeki",
+"answer": "point",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "taras",
+"answer": "stein",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "ferny",
+"answer": "deter",
+"pattern": [
+0,
+2,
+1,
+0,
+0
+],
+"code": 63
+},
+{
+"guess": "skulk",
+"answer": "musky",
+"pattern": [
+1,
+1,
+1,
+0,
+0
+],
+"code": 117
+},
+{
+"guess": "sushi",
+"answer": "murky",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "hokas",
+"answer": "cairn",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "amuse",
+"answer": "alloy",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "teggs",
+"answer": "atoll",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "phooo",
+"answer": "exact",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "gungy",
+"answer": "drink",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "smolt",
+"answer": "gruff",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "kubie",
+"answer": "squat",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "turfs",
+"answer": "sheen",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "baffy",
+"answer": "apply",
+"pattern": [
+0,
+1,
+0,
+0,
+2
+],
+"code": 29
+},
+{
+"guess": "telos",
+"answer": "think",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "appui",
+"answer": "leaky",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "khaya",
+"answer": "worst",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "stroy",
+"answer": "sober",
+"pattern": [
+2,
+0,
+1,
+1,
+0
+],
+"code": 174
+},
+{
+"guess": "uveas",
+"answer": "gusto",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "rorid",
+"answer": "alone",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "bacha",
+"answer": "strut",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ictal",
+"answer": "blunt",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "tikka",
+"answer": "dingo",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "acids",
+"answer": "elbow",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "weids",
+"answer": "wrung",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "tranq",
+"answer": "scare",
+"pattern": [
+0,
+1,
+2,
+0,
+0
+],
+"code": 45
+},
+{
+"guess": "bovid",
+"answer": "graze",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "towno",
+"answer": "fanny",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "spiks",
+"answer": "blank",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "mosto",
+"answer": "flick",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "thaws",
+"answer": "pearl",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "naunt",
+"answer": "aloft",
+"pattern": [
+0,
+1,
+0,
+0,
+2
+],
+"code": 29
+},
+{
+"guess": "pesty",
+"answer": "fling",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "thali",
+"answer": "scene",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "downa",
+"answer": "crazy",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "fulth",
+"answer": "silky",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "wyles",
+"answer": "barge",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "ethos",
+"answer": "segue",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "begin",
+"answer": "hence",
+"pattern": [
+0,
+2,
+0,
+0,
+1
+],
+"code": 55
+},
+{
+"guess": "safer",
+"answer": "rigor",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "peeps",
+"answer": "snare",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "speck",
+"answer": "label",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "swile",
+"answer": "idyll",
+"pattern": [
+0,
+0,
+1,
+2,
+0
+],
+"code": 15
+},
+{
+"guess": "glaik",
+"answer": "slant",
+"pattern": [
+0,
+2,
+2,
+0,
+0
+],
+"code": 72
+},
+{
+"guess": "added",
+"answer": "civil",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pynes",
+"answer": "tidal",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "runup",
+"answer": "snoop",
+"pattern": [
+0,
+0,
+1,
+0,
+2
+],
+"code": 11
+},
+{
+"guess": "ernes",
+"answer": "atoll",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "chant",
+"answer": "abbey",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "tians",
+"answer": "bible",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "oping",
+"answer": "style",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "laugh",
+"answer": "optic",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "arvee",
+"answer": "emcee",
+"pattern": [
+0,
+0,
+0,
+2,
+2
+],
+"code": 8
+},
+{
+"guess": "tatty",
+"answer": "sworn",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bawds",
+"answer": "admin",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "ogeed",
+"answer": "ester",
+"pattern": [
+0,
+0,
+1,
+2,
+0
+],
+"code": 15
+},
+{
+"guess": "hogoh",
+"answer": "flour",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "gamps",
+"answer": "speak",
+"pattern": [
+0,
+1,
+0,
+1,
+1
+],
+"code": 31
+},
+{
+"guess": "geums",
+"answer": "roost",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "mirth",
+"answer": "unite",
+"pattern": [
+0,
+1,
+0,
+2,
+0
+],
+"code": 33
+},
+{
+"guess": "jokey",
+"answer": "ember",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "musse",
+"answer": "lumen",
+"pattern": [
+1,
+2,
+0,
+0,
+1
+],
+"code": 136
+},
+{
+"guess": "drapy",
+"answer": "showy",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "ephod",
+"answer": "tally",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "peaze",
+"answer": "plaza",
+"pattern": [
+2,
+0,
+2,
+2,
+0
+],
+"code": 186
+},
+{
+"guess": "sheel",
+"answer": "soapy",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "kests",
+"answer": "among",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sprat",
+"answer": "sugar",
+"pattern": [
+2,
+0,
+1,
+2,
+0
+],
+"code": 177
+},
+{
+"guess": "crons",
+"answer": "brake",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "peyse",
+"answer": "noisy",
+"pattern": [
+0,
+0,
+1,
+2,
+0
+],
+"code": 15
+},
+{
+"guess": "etnas",
+"answer": "rivet",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "gambe",
+"answer": "tooth",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "lions",
+"answer": "filly",
+"pattern": [
+1,
+2,
+0,
+0,
+0
+],
+"code": 135
+},
+{
+"guess": "serrs",
+"answer": "ionic",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "choko",
+"answer": "visit",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "cotta",
+"answer": "petty",
+"pattern": [
+0,
+0,
+2,
+2,
+0
+],
+"code": 24
+},
+{
+"guess": "hissy",
+"answer": "aging",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "pucer",
+"answer": "await",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pukka",
+"answer": "gavel",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "ahole",
+"answer": "amass",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "aapas",
+"answer": "lapse",
+"pattern": [
+0,
+2,
+2,
+0,
+1
+],
+"code": 73
+},
+{
+"guess": "abear",
+"answer": "shrug",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "gongs",
+"answer": "reset",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "darls",
+"answer": "smear",
+"pattern": [
+0,
+1,
+1,
+0,
+1
+],
+"code": 37
+},
+{
+"guess": "eards",
+"answer": "askew",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "mutes",
+"answer": "envoy",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "nicks",
+"answer": "genre",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "skags",
+"answer": "cider",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "kalam",
+"answer": "skirt",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "piler",
+"answer": "chaff",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pacay",
+"answer": "vying",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "vroom",
+"answer": "revue",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "silex",
+"answer": "rajah",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "fayer",
+"answer": "mulch",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bonie",
+"answer": "rally",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "maiks",
+"answer": "arson",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "tabac",
+"answer": "mogul",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pling",
+"answer": "chirp",
+"pattern": [
+1,
+0,
+2,
+0,
+0
+],
+"code": 99
+},
+{
+"guess": "quite",
+"answer": "equip",
+"pattern": [
+1,
+1,
+1,
+0,
+1
+],
+"code": 118
+},
+{
+"guess": "fillo",
+"answer": "sadly",
+"pattern": [
+0,
+0,
+0,
+2,
+0
+],
+"code": 6
+},
+{
+"guess": "weals",
+"answer": "quest",
+"pattern": [
+0,
+1,
+0,
+0,
+1
+],
+"code": 28
+},
+{
+"guess": "unget",
+"answer": "trunk",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "patka",
+"answer": "aglow",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "drest",
+"answer": "gorge",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "crank",
+"answer": "manic",
+"pattern": [
+1,
+0,
+1,
+1,
+0
+],
+"code": 93
+},
+{
+"guess": "panax",
+"answer": "stock",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "flisk",
+"answer": "hotly",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "palea",
+"answer": "pushy",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "twill",
+"answer": "atoll",
+"pattern": [
+1,
+0,
+0,
+2,
+2
+],
+"code": 89
+},
+{
+"guess": "vegie",
+"answer": "tumor",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "lined",
+"answer": "wiser",
+"pattern": [
+0,
+2,
+0,
+2,
+0
+],
+"code": 60
+},
+{
+"guess": "shans",
+"answer": "chock",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "spink",
+"answer": "brace",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sybow",
+"answer": "rodeo",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "gismo",
+"answer": "sorry",
+"pattern": [
+0,
+0,
+1,
+0,
+1
+],
+"code": 10
+},
+{
+"guess": "exuls",
+"answer": "agile",
+"pattern": [
+1,
+0,
+0,
+2,
+0
+],
+"code": 87
+},
+{
+"guess": "buteo",
+"answer": "cower",
+"pattern": [
+0,
+0,
+0,
+2,
+1
+],
+"code": 7
+},
+{
+"guess": "yauds",
+"answer": "model",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "lours",
+"answer": "moldy",
+"pattern": [
+1,
+2,
+0,
+0,
+0
+],
+"code": 135
+},
+{
+"guess": "mohua",
+"answer": "piper",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "snoop",
+"answer": "swarm",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "mahua",
+"answer": "avoid",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "sowed",
+"answer": "snore",
+"pattern": [
+2,
+1,
+0,
+1,
+0
+],
+"code": 192
+},
+{
+"guess": "eughs",
+"answer": "crepe",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "divos",
+"answer": "gazer",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "brink",
+"answer": "chess",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "compt",
+"answer": "niche",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "mulie",
+"answer": "mealy",
+"pattern": [
+2,
+0,
+1,
+0,
+1
+],
+"code": 172
+},
+{
+"guess": "riyal",
+"answer": "month",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ident",
+"answer": "truly",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "chill",
+"answer": "fever",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pince",
+"answer": "leash",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "linen",
+"answer": "basis",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "bribe",
+"answer": "broad",
+"pattern": [
+2,
+2,
+0,
+0,
+0
+],
+"code": 216
+},
+{
+"guess": "douar",
+"answer": "whoop",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "dimps",
+"answer": "alone",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "riffy",
+"answer": "argue",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "showy",
+"answer": "apart",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "teras",
+"answer": "puppy",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "heads",
+"answer": "parry",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "annex",
+"answer": "joust",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "solus",
+"answer": "bring",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "dunny",
+"answer": "zebra",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ablow",
+"answer": "favor",
+"pattern": [
+1,
+0,
+0,
+2,
+0
+],
+"code": 87
+},
+{
+"guess": "pully",
+"answer": "scene",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ahigh",
+"answer": "bezel",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "pause",
+"answer": "leapt",
+"pattern": [
+1,
+1,
+0,
+0,
+1
+],
+"code": 109
+},
+{
+"guess": "soras",
+"answer": "valet",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "drams",
+"answer": "aorta",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "sculk",
+"answer": "froze",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "crunk",
+"answer": "tamer",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "mudra",
+"answer": "easel",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "lurry",
+"answer": "riser",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "drome",
+"answer": "tepee",
+"pattern": [
+0,
+0,
+0,
+0,
+2
+],
+"code": 2
+},
+{
+"guess": "chaws",
+"answer": "lumen",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "apnea",
+"answer": "blitz",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "mugos",
+"answer": "erect",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "marma",
+"answer": "tread",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "hyped",
+"answer": "might",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "maare",
+"answer": "miner",
+"pattern": [
+2,
+0,
+0,
+1,
+1
+],
+"code": 166
+},
+{
+"guess": "hokey",
+"answer": "cross",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "hebes",
+"answer": "stuff",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "grill",
+"answer": "alley",
+"pattern": [
+0,
+0,
+0,
+1,
+1
+],
+"code": 4
+},
+{
+"guess": "moped",
+"answer": "extol",
+"pattern": [
+0,
+1,
+0,
+1,
+0
+],
+"code": 30
+},
+{
+"guess": "ankus",
+"answer": "jelly",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "ionic",
+"answer": "fatal",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "enter",
+"answer": "screw",
+"pattern": [
+0,
+0,
+0,
+2,
+1
+],
+"code": 7
+},
+{
+"guess": "crack",
+"answer": "spare",
+"pattern": [
+0,
+1,
+2,
+0,
+0
+],
+"code": 45
+},
+{
+"guess": "davit",
+"answer": "flame",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "seels",
+"answer": "crass",
+"pattern": [
+1,
+0,
+0,
+0,
+2
+],
+"code": 83
+},
+{
+"guess": "cough",
+"answer": "tacky",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "build",
+"answer": "belie",
+"pattern": [
+2,
+0,
+1,
+1,
+0
+],
+"code": 174
+},
+{
+"guess": "pupil",
+"answer": "hutch",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "gapes",
+"answer": "curry",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "mousy",
+"answer": "while",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "toits",
+"answer": "husky",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "hatty",
+"answer": "sting",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "ledge",
+"answer": "jerky",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "pitas",
+"answer": "after",
+"pattern": [
+0,
+0,
+2,
+1,
+0
+],
+"code": 21
+},
+{
+"guess": "valse",
+"answer": "carat",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "still",
+"answer": "awake",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "haste",
+"answer": "theta",
+"pattern": [
+1,
+1,
+0,
+2,
+1
+],
+"code": 115
+},
+{
+"guess": "bided",
+"answer": "flash",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "repen",
+"answer": "theft",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "antis",
+"answer": "swell",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "plues",
+"answer": "visor",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "chiks",
+"answer": "swirl",
+"pattern": [
+0,
+0,
+2,
+0,
+1
+],
+"code": 19
+},
+{
+"guess": "olive",
+"answer": "homer",
+"pattern": [
+1,
+0,
+0,
+0,
+1
+],
+"code": 82
+},
+{
+"guess": "irony",
+"answer": "slush",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "lewis",
+"answer": "thumb",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "quabs",
+"answer": "coach",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "niche",
+"answer": "altar",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "taken",
+"answer": "tough",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "curds",
+"answer": "paste",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "shola",
+"answer": "ozone",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "manic",
+"answer": "mocha",
+"pattern": [
+2,
+1,
+0,
+0,
+1
+],
+"code": 190
+},
+{
+"guess": "ology",
+"answer": "cluck",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "secco",
+"answer": "bulky",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "knout",
+"answer": "crank",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "upran",
+"answer": "myrrh",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "storm",
+"answer": "fresh",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "surfs",
+"answer": "wrong",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "micky",
+"answer": "brain",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "maqui",
+"answer": "rayon",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "glute",
+"answer": "baron",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "wicky",
+"answer": "gusto",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "sapid",
+"answer": "heist",
+"pattern": [
+1,
+0,
+0,
+1,
+0
+],
+"code": 84
+},
+{
+"guess": "bonze",
+"answer": "mogul",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "apace",
+"answer": "sugar",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "foamy",
+"answer": "musty",
+"pattern": [
+0,
+0,
+0,
+1,
+2
+],
+"code": 5
+},
+{
+"guess": "augur",
+"answer": "plant",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+},
+{
+"guess": "toady",
+"answer": "annex",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "sedan",
+"answer": "cling",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "laari",
+"answer": "dodge",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "azure",
+"answer": "crook",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "floes",
+"answer": "rouge",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "holds",
+"answer": "eclat",
+"pattern": [
+0,
+0,
+2,
+0,
+0
+],
+"code": 18
+},
+{
+"guess": "forth",
+"answer": "drone",
+"pattern": [
+0,
+1,
+1,
+0,
+0
+],
+"code": 36
+},
+{
+"guess": "rusks",
+"answer": "cease",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "ering",
+"answer": "pouch",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "rodny",
+"answer": "rhyme",
+"pattern": [
+2,
+0,
+0,
+0,
+1
+],
+"code": 163
+},
+{
+"guess": "opsat",
+"answer": "scoop",
+"pattern": [
+1,
+1,
+1,
+0,
+0
+],
+"code": 117
+},
+{
+"guess": "hones",
+"answer": "prick",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "adsum",
+"answer": "girth",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "cabob",
+"answer": "borne",
+"pattern": [
+0,
+0,
+1,
+1,
+0
+],
+"code": 12
+},
+{
+"guess": "tapen",
+"answer": "laden",
+"pattern": [
+0,
+2,
+0,
+2,
+2
+],
+"code": 62
+},
+{
+"guess": "vigia",
+"answer": "spool",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "bewdy",
+"answer": "amass",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "refan",
+"answer": "edict",
+"pattern": [
+0,
+1,
+0,
+0,
+0
+],
+"code": 27
+},
+{
+"guess": "sybil",
+"answer": "diner",
+"pattern": [
+0,
+0,
+0,
+1,
+0
+],
+"code": 3
+},
+{
+"guess": "odyle",
+"answer": "musky",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "towns",
+"answer": "blush",
+"pattern": [
+0,
+0,
+0,
+0,
+1
+],
+"code": 1
+},
+{
+"guess": "pones",
+"answer": "dowdy",
+"pattern": [
+0,
+2,
+0,
+0,
+0
+],
+"code": 54
+},
+{
+"guess": "bibbs",
+"answer": "under",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "gesse",
+"answer": "plank",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "grads",
+"answer": "cross",
+"pattern": [
+0,
+2,
+0,
+0,
+2
+],
+"code": 56
+},
+{
+"guess": "leche",
+"answer": "snoop",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "rypin",
+"answer": "leery",
+"pattern": [
+1,
+1,
+0,
+0,
+0
+],
+"code": 108
+},
+{
+"guess": "gudes",
+"answer": "girly",
+"pattern": [
+2,
+0,
+0,
+0,
+0
+],
+"code": 162
+},
+{
+"guess": "heath",
+"answer": "rally",
+"pattern": [
+0,
+0,
+1,
+0,
+0
+],
+"code": 9
+},
+{
+"guess": "horse",
+"answer": "taint",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "tommy",
+"answer": "leash",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "wides",
+"answer": "spice",
+"pattern": [
+0,
+1,
+0,
+1,
+1
+],
+"code": 31
+},
+{
+"guess": "bombo",
+"answer": "terse",
+"pattern": [
+0,
+0,
+0,
+0,
+0
+],
+"code": 0
+},
+{
+"guess": "kaing",
+"answer": "manly",
+"pattern": [
+0,
+2,
+0,
+1,
+0
+],
+"code": 57
+},
+{
+"guess": "scary",
+"answer": "brave",
+"pattern": [
+0,
+0,
+2,
+1,
+0
+],
+"code": 21
+},
+{
+"guess": "goodo",
+"answer": "range",
+"pattern": [
+1,
+0,
+0,
+0,
+0
+],
+"code": 81
+}
+]

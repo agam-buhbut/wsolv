@@ -1,0 +1,62 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wsolv-precompute"
+version = "0.1.0"
+description = "Offline pipeline that builds the optimal Wordle decision tree bundled into the wsolv Android app."
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.26"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "black>=24", "isort>=5", "ruff>=0.5", "pylint>=3", "pyright>=1.1"]
+
+[project.scripts]
+wsolv-precompute = "wsolv_precompute.cli:main"
+
+[tool.setuptools]
+packages = ["wsolv_precompute"]
+
+[tool.black]
+line-length = 88
+target-version = ["py311"]
+
+[tool.isort]
+profile = "black"
+line_length = 88
+
+[tool.ruff]
+line-length = 88
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM", "PTH"]
+
+[tool.ruff.lint.per-file-ignores]
+# feedback.py is the frozen Python/Kotlin shared contract and must not be
+# edited here; its one B905 (zip over two equal-length 5-tuples) is benign.
+"wsolv_precompute/feedback.py" = ["B905"]
+
+[tool.pylint.main]
+# feedback.py is frozen here (shared with Kotlin) so its design metrics can't
+# be refactored; these modest bumps also fit the parameter-rich builder /
+# validator entry points and the BuildResult aggregate without disabling the
+# underlying checks.
+max-args = 9
+max-positional-arguments = 9
+max-locals = 25
+max-attributes = 12
+
+[tool.pyright]
+typeCheckingMode = "standard"
+pythonVersion = "3.11"
+include = ["wsolv_precompute", "tests"]
+venvPath = "."
+venv = ".venv"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+markers = ["slow: full-list precompute (deselected by default; run with -m slow)"]
+addopts = "-m 'not slow'"
